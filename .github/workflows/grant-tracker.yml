@@ -1,0 +1,39 @@
+name: Grant Accountability Tracker
+
+on:
+  schedule:
+    # Run every Monday at 09:00 UTC
+    - cron: '0 9 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  track:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Run pipeline
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 run.py
+
+      - name: Commit data and report
+        run: |
+          git config user.name "grant-tracker-bot"
+          git config user.email "bot@zcash-grant-tracker"
+          git add data/ reports/
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            DATE=$(date -u +%Y-%m-%d)
+            git commit -m "report: ${DATE} weekly grant health"
+            git push
+          fi

@@ -1,0 +1,115 @@
+## 📊 Zcash Grant Health Report — Week of November 06, 2026
+
+*Automated accountability tracking for ZCG and CDRGP grants. All data sourced from [OpenZcash](https://openzcash.org/zcg), [GitHub](https://github.com/ZcashCommunityGrants/zcashcommunitygrants), and [ZCG meeting minutes](https://forum.zcashcommunity.com/c/grants/zomg-updates/34).*
+
+---
+
+### At a Glance
+
+| Metric | Value |
+|---|---|
+| Total grants tracked | 218 |
+| Total USD committed | $31.6M |
+| Total ZEC disbursed | 406,708 ZEC |
+| Milestone delivery rate | 80.8% |
+| Milestones paid / total | 738 / 913 |
+| Stalled grants (>60 days) | 13 |
+| Payments last 30 days | 65 |
+
+### Grant Status Breakdown
+
+| Status | Count |
+|---|---|
+| completed | 166 |
+| open | 35 |
+| cancelled | 16 |
+| keyholder_veto | 1 |
+
+### Funding by Category
+
+| Category | Grants | USD Committed |
+|---|---|---|
+| Infrastructure | 38 | $7.2M |
+| Research & Development | 19 | $6.5M |
+| Wallets | 22 | $3.2M |
+| Zcash Protocol Extension | 4 | $3.1M |
+| Integration | 19 | $2.9M |
+| Community | 42 | $2.1M |
+| Non-Wallet Applications | 18 | $1.7M |
+| Dedicated Resource | 7 | $1.3M |
+| Media | 11 | $1.2M |
+| Education | 16 | $995,526 |
+| Wallets & Infrastructure | 1 | $551,000 |
+| Protocol Development | 2 | $435,040 |
+| Event Sponsorship | 16 | $430,395 |
+| Grants Program Admin | 1 | $58,000 |
+| Security | 2 | $29,425 |
+
+### ⚠️ Stalled Grants
+
+*Grants with no milestone payment in 60+ days that are not yet complete.*
+
+| Grant | Grantee | Committed | Progress | Last Payment | Days Silent |
+|---|---|---|---|---|---|
+| 24 Videos @zkMarketer | Connaugh | $60,000 | 0% (0/3) | None | never paid (approved but never paid) |
+| Zcash Shielded support in Ledger Wallet and L | Ledger | $300,000 | 0% (0/1) | None | never paid (approved but never paid) |
+| Constant-Time Hardening and Explicit Timing S | Eryx | $10,000 | 0% (0/2) | None | never paid (approved but never paid) |
+| Upstream enhancements to librustzcash | ChainSafe | $16,800 | 0% (0/1) | None | never paid (approved but never paid) |
+| Colosseum | Crypto World's Fair | Zcash Track | Colosseum | $150,000 | 0% (0/1) | None | never paid (approved but never paid) |
+| Konclave: taking the viewing key off the coor | DeegaLabs | $18,000 | 0% (0/3) | None | never paid (approved but never paid) |
+| The Nym mixnet for Network Privacy for Zcash | Nym Technologies | $150,000 | 50.0% (2/4) | 2025-03-21 | 595 |
+| Zcash-Avalanche Elastic Subnet Bridge | RedDev | $210,433 | 71.4% (5/7) | 2026-04-08 | 212 |
+| Bootstrapped and deterministic builds a la St | Distrust.co | $48,000 | 66.7% (2/3) | 2026-04-21 | 199 |
+| Zaino Completion | Zingo Labs | $151,240 | 66.7% (2/3) | 2026-05-20 | 170 |
+| OneKey Zcash Hardware Support with Unified Wa | OneKey | $45,000 | 25.0% (1/4) | 2026-05-28 | 162 |
+| Feature Branch Testnet and Compatible Develop | QEDIT | $455,000 | 10.0% (1/10) | 2026-06-22 | 137 |
+| CipherScan | CipherScan | $73,500 | 66.7% (4/6) | 2026-07-23 | 106 |
+
+### 💰 Recent Payments (Last 30 Days)
+
+| Project | Recipient | Type | Amount | Date |
+|---|---|---|---|---|
+| Zcash Brazil 2026 | Zcash Brazil | grant_milestone | $21,833 | 2026-11-05 |
+| Maintenance and Improvements to Coi | Hanh | grant_milestone | $26,000 | 2026-11-05 |
+| Zcash Community Media Infrastructur | ZK AV Club | grant_milestone | $15,383 | 2026-11-05 |
+| ZecHub 2026 | ZecHub | grant_milestone | $31,360 | 2026-11-05 |
+| Zcash Global en Español 2026 | Zcash Español | grant_milestone | $8,925 | 2026-11-05 |
+| Zcash Brazil 2026 | Zcash Brazil | grant_milestone | $2,999 | 2026-11-05 |
+|  | Zellic | tool_credit_service | $20,000 | 2026-11-02 |
+| Defi Strategist | Rigved | ic_payment | $9,704 | 2026-11-02 |
+| Zcash Nigeria 2026 | Zcash Nigeria | grant_milestone | $5,300 | 2026-11-02 |
+| Zcash Arabia (August to December 20 | ZcashArabia | grant_milestone | $4,000 | 2026-11-01 |
+| ZECsy Community Building: 12 Months | readymouse | grant_milestone | $45,833 | 2026-11-01 |
+| Arborist Call Meeting Notes | Chidi Olisa | ic_payment | $600 | 2026-10-31 |
+|  | PGP for Crypto (Paul | monthly | $14,049 | 2026-10-30 |
+|  | Artkor | monthly | $14,049 | 2026-10-30 |
+|  | GGuy | monthly | $14,049 | 2026-10-30 |
+| *...and 5 more* | | | | |
+
+### 🏆 Top 10 Grant Recipients (All Time)
+
+| Recipient | Total Committed | Paid | Grants | Payments |
+|---|---|---|---|---|
+| QEDIT | $6.0M | $5.8M | 10 | 50 |
+| Zcash Open Development Lab (ZO | $1.9M | $1.9M | 1 | 1 |
+| Valargroup | $1.8M | $1.8M | 2 | 2 |
+| Hanh | $1.7M | $1.7M | 13 | 48 |
+| Taylor Hornby | $1.7M | $1.7M | 3 | 14 |
+| Equilibrium | $1.5M | $1.5M | 6 | 24 |
+| Tor | $1.4M | $1.4M | 3 | 9 |
+| Zingo Labs | $1.3M | $1.2M | 9 | 24 |
+| Nighthawk | $1.1M | $1.1M | 5 | 12 |
+| Zcash Media | $1.1M | $1.1M | 4 | 17 |
+
+### 📋 Recent ZCG Meeting Activity
+
+- Meetings analyzed: 10
+- Average views per minutes post: 305.9
+- Total community replies: 14
+- Most recent: Zcash Community Grants Meeting Minutes 10/23/2026
+
+---
+
+*This report is generated by the [Zcash Grant Accountability Tracker](https://github.com/oolu4236/zcash-grant-tracker). Data refreshed weekly from public APIs. Not affiliated with ZCG or the Financial Privacy Foundation.*
+
+🛡️ Tip (shielded): `u1ugdhhhag775002dh5yx58mw6nlvr9k2zd2lqg8nvtudgxxmntwtavkp3ushc04t0ejynf0j6rt9h4xgcumwve4dkgkq6rlcju5vcq8g2`

@@ -1,0 +1,521 @@
+{
+  "generated_at": "2026-11-06T12:25:29.996316+00:00",
+  "period": "weekly",
+  "delivery_metrics": {
+    "total_grants": 218,
+    "status_breakdown": {
+      "open": 35,
+      "completed": 166,
+      "cancelled": 16,
+      "keyholder_veto": 1
+    },
+    "total_milestones": 913,
+    "paid_milestones": 738,
+    "milestone_delivery_rate": 80.8,
+    "total_usd_committed": 31613745.06,
+    "total_zec_disbursed": 406707.55,
+    "category_breakdown": {
+      "Community": {
+        "count": 42,
+        "usd": 2076641.19
+      },
+      "Education": {
+        "count": 16,
+        "usd": 995526.4299999999
+      },
+      "Non-Wallet Applications": {
+        "count": 18,
+        "usd": 1660461
+      },
+      "Event Sponsorship": {
+        "count": 16,
+        "usd": 430395.23
+      },
+      "Infrastructure": {
+        "count": 38,
+        "usd": 7210196.180000001
+      },
+      "Research & Development": {
+        "count": 19,
+        "usd": 6508582.01
+      },
+      "Wallets": {
+        "count": 22,
+        "usd": 3172250
+      },
+      "Media": {
+        "count": 11,
+        "usd": 1191276
+      },
+      "Integration": {
+        "count": 19,
+        "usd": 2888313
+      },
+      "Security": {
+        "count": 2,
+        "usd": 29425
+      },
+      "Dedicated Resource": {
+        "count": 7,
+        "usd": 1316478
+      },
+      "Protocol Development": {
+        "count": 2,
+        "usd": 435040
+      },
+      "Zcash Protocol Extension": {
+        "count": 4,
+        "usd": 3090161.02
+      },
+      "Grants Program Admin": {
+        "count": 1,
+        "usd": 58000
+      },
+      "Wallets & Infrastructure": {
+        "count": 1,
+        "usd": 551000
+      }
+    }
+  },
+  "stalled_grants": {
+    "count": 13,
+    "threshold_days": 60,
+    "grants": [
+      {
+        "grant": "24 Videos @zkMarketer",
+        "grantee": "Connaugh",
+        "usd": 60000,
+        "milestones": 3,
+        "milestones_paid": 0,
+        "last_paid": null,
+        "days_since_payment": null,
+        "completion_pct": 0,
+        "note": "approved but never paid"
+      },
+      {
+        "grant": "Zcash Shielded support in Ledger Wallet and Ledger devices",
+        "grantee": "Ledger",
+        "usd": 300000,
+        "milestones": 1,
+        "milestones_paid": 0,
+        "last_paid": null,
+        "days_since_payment": null,
+        "completion_pct": 0,
+        "note": "approved but never paid"
+      },
+      {
+        "grant": "Constant-Time Hardening and Explicit Timing Semantics for Zcash Rust Cryptography",
+        "grantee": "Eryx",
+        "usd": 10000,
+        "milestones": 2,
+        "milestones_paid": 0,
+        "last_paid": null,
+        "days_since_payment": null,
+        "completion_pct": 0,
+        "note": "approved but never paid"
+      },
+      {
+        "grant": "Upstream enhancements to librustzcash",
+        "grantee": "ChainSafe",
+        "usd": 16800,
+        "milestones": 1,
+        "milestones_paid": 0,
+        "last_paid": null,
+        "days_since_payment": null,
+        "completion_pct": 0,
+        "note": "approved but never paid"
+      },
+      {
+        "grant": "Colosseum | Crypto World's Fair | Zcash Track",
+        "grantee": "Colosseum",
+        "usd": 150000,
+        "milestones": 1,
+        "milestones_paid": 0,
+        "last_paid": null,
+        "days_since_payment": null,
+        "completion_pct": 0,
+        "note": "approved but never paid"
+      },
+      {
+        "grant": "Konclave: taking the viewing key off the coordinator",
+        "grantee": "DeegaLabs",
+        "usd": 18000,
+        "milestones": 3,
+        "milestones_paid": 0,
+        "last_paid": null,
+        "days_since_payment": null,
+        "completion_pct": 0,
+        "note": "approved but never paid"
+      },
+      {
+        "grant": "The Nym mixnet for Network Privacy for Zcash",
+        "grantee": "Nym Technologies",
+        "usd": 150000,
+        "milestones": 4,
+        "milestones_paid": 2,
+        "last_paid": "2025-03-21",
+        "days_since_payment": 595,
+        "completion_pct": 50.0
+      },
+      {
+        "grant": "Zcash-Avalanche Elastic Subnet Bridge",
+        "grantee": "RedDev",
+        "usd": 210433,
+        "milestones": 7,
+        "milestones_paid": 5,
+        "last_paid": "2026-04-08",
+        "days_since_payment": 212,
+        "completion_pct": 71.4
+      },
+      {
+        "grant": "Bootstrapped and deterministic builds a la StageX",
+        "grantee": "Distrust.co",
+        "usd": 48000,
+        "milestones": 3,
+        "milestones_paid": 2,
+        "last_paid": "2026-04-21",
+        "days_since_payment": 199,
+        "completion_pct": 66.7
+      },
+      {
+        "grant": "Zaino Completion",
+        "grantee": "Zingo Labs",
+        "usd": 151240,
+        "milestones": 3,
+        "milestones_paid": 2,
+        "last_paid": "2026-05-20",
+        "days_since_payment": 170,
+        "completion_pct": 66.7
+      },
+      {
+        "grant": "OneKey Zcash Hardware Support with Unified Wallet Architecture (Transparent + Shielded)",
+        "grantee": "OneKey",
+        "usd": 45000,
+        "milestones": 4,
+        "milestones_paid": 1,
+        "last_paid": "2026-05-28",
+        "days_since_payment": 162,
+        "completion_pct": 25.0
+      },
+      {
+        "grant": "Feature Branch Testnet and Compatible Developer Tooling",
+        "grantee": "QEDIT",
+        "usd": 455000,
+        "milestones": 10,
+        "milestones_paid": 1,
+        "last_paid": "2026-06-22",
+        "days_since_payment": 137,
+        "completion_pct": 10.0
+      },
+      {
+        "grant": "CipherScan",
+        "grantee": "CipherScan",
+        "usd": 73500,
+        "milestones": 6,
+        "milestones_paid": 4,
+        "last_paid": "2026-07-23",
+        "days_since_payment": 106,
+        "completion_pct": 66.7
+      }
+    ]
+  },
+  "recent_payments": {
+    "count": 65,
+    "period_days": 30,
+    "payments": [
+      {
+        "recipient": "Zcash Brazil",
+        "project": "Zcash Brazil 2026",
+        "type": "grant_milestone",
+        "milestone": "10",
+        "amount_usd": 21833,
+        "paid_date": "2026-11-05",
+        "category": "Community"
+      },
+      {
+        "recipient": "Hanh",
+        "project": "Maintenance and Improvements to Coin Voting",
+        "type": "grant_milestone",
+        "milestone": "10",
+        "amount_usd": 26000,
+        "paid_date": "2026-11-05",
+        "category": "Non-Wallet Applications"
+      },
+      {
+        "recipient": "ZK AV Club",
+        "project": "Zcash Community Media Infrastructure & Support | Zk Av Club 2026",
+        "type": "grant_milestone",
+        "milestone": "10",
+        "amount_usd": 15383.33,
+        "paid_date": "2026-11-05",
+        "category": "Community"
+      },
+      {
+        "recipient": "ZecHub",
+        "project": "ZecHub 2026",
+        "type": "grant_milestone",
+        "milestone": "10",
+        "amount_usd": 31360,
+        "paid_date": "2026-11-05",
+        "category": "Education"
+      },
+      {
+        "recipient": "Zcash Espa\u00f1ol",
+        "project": "Zcash Global en Espa\u00f1ol 2026",
+        "type": "grant_milestone",
+        "milestone": "10",
+        "amount_usd": 8925,
+        "paid_date": "2026-11-05",
+        "category": "Community"
+      },
+      {
+        "recipient": "Zcash Brazil",
+        "project": "Zcash Brazil 2026",
+        "type": "grant_milestone",
+        "milestone": "Event Reimbursement",
+        "amount_usd": 2999,
+        "paid_date": "2026-11-05",
+        "category": "Community"
+      },
+      {
+        "recipient": "Zellic",
+        "project": "",
+        "type": "tool_credit_service",
+        "milestone": "",
+        "amount_usd": 20000,
+        "paid_date": "2026-11-02",
+        "category": ""
+      },
+      {
+        "recipient": "Rigved",
+        "project": "Defi Strategist",
+        "type": "ic_payment",
+        "milestone": "",
+        "amount_usd": 9703.52,
+        "paid_date": "2026-11-02",
+        "category": "Integration"
+      },
+      {
+        "recipient": "Zcash Nigeria",
+        "project": "Zcash Nigeria 2026",
+        "type": "grant_milestone",
+        "milestone": "10",
+        "amount_usd": 5300,
+        "paid_date": "2026-11-02",
+        "category": "Community"
+      },
+      {
+        "recipient": "ZcashArabia",
+        "project": "Zcash Arabia (August to December 2026)",
+        "type": "grant_milestone",
+        "milestone": "3",
+        "amount_usd": 4000,
+        "paid_date": "2026-11-01",
+        "category": "Education"
+      },
+      {
+        "recipient": "readymouse",
+        "project": "ZECsy Community Building: 12 Months of Zcash on the Ground [Revised]",
+        "type": "grant_milestone",
+        "milestone": "2",
+        "amount_usd": 45833,
+        "paid_date": "2026-11-01",
+        "category": "Community"
+      },
+      {
+        "recipient": "Chidi Olisa",
+        "project": "Arborist Call Meeting Notes",
+        "type": "ic_payment",
+        "milestone": "",
+        "amount_usd": 600,
+        "paid_date": "2026-10-31",
+        "category": "Community"
+      },
+      {
+        "recipient": "PGP for Crypto (Paul Brigner)",
+        "project": "",
+        "type": "monthly",
+        "milestone": "",
+        "amount_usd": 14049.47,
+        "paid_date": "2026-10-30",
+        "category": ""
+      },
+      {
+        "recipient": "Artkor",
+        "project": "",
+        "type": "monthly",
+        "milestone": "",
+        "amount_usd": 14049.47,
+        "paid_date": "2026-10-30",
+        "category": ""
+      },
+      {
+        "recipient": "GGuy",
+        "project": "",
+        "type": "monthly",
+        "milestone": "",
+        "amount_usd": 14049.47,
+        "paid_date": "2026-10-30",
+        "category": ""
+      },
+      {
+        "recipient": "Hanh",
+        "project": "",
+        "type": "monthly",
+        "milestone": "",
+        "amount_usd": 14049.47,
+        "paid_date": "2026-10-30",
+        "category": ""
+      },
+      {
+        "recipient": "Zerodartz",
+        "project": "",
+        "type": "monthly",
+        "milestone": "",
+        "amount_usd": 14049.47,
+        "paid_date": "2026-10-30",
+        "category": ""
+      },
+      {
+        "recipient": "Zerodartz",
+        "project": "",
+        "type": "reimbursement",
+        "milestone": "",
+        "amount_usd": 749.95,
+        "paid_date": "2026-10-23",
+        "category": ""
+      },
+      {
+        "recipient": "BlockivIA",
+        "project": "Zcash Privacy & Adoption in Two Bolivian Universities by BlockivIA",
+        "type": "grant_milestone",
+        "milestone": "Startup Funding",
+        "amount_usd": 750,
+        "paid_date": "2026-10-23",
+        "category": "Education"
+      },
+      {
+        "recipient": "Zcash East Africa Community",
+        "project": "Zcash East Africa @ Africa Blockchain Festival 2026",
+        "type": "grant_milestone",
+        "milestone": "1",
+        "amount_usd": 1240,
+        "paid_date": "2026-10-22",
+        "category": "Event Sponsorship"
+      }
+    ]
+  },
+  "top_recipients": [
+    {
+      "recipient": "QEDIT",
+      "total_usd": 5982968,
+      "total_zec": 136672.85536,
+      "usd_paid": 5755468,
+      "grants": 10,
+      "payments": 50,
+      "last_paid": "2026-06-22"
+    },
+    {
+      "recipient": "Zcash Open Development Lab (ZODL)",
+      "total_usd": 1950000,
+      "total_zec": 1701.4371,
+      "usd_paid": 1950000,
+      "grants": 1,
+      "payments": 1,
+      "last_paid": "2026-10-16"
+    },
+    {
+      "recipient": "Valargroup",
+      "total_usd": 1802000,
+      "total_zec": 1572.3024,
+      "usd_paid": 1802000,
+      "grants": 2,
+      "payments": 2,
+      "last_paid": "2026-10-16"
+    },
+    {
+      "recipient": "Hanh",
+      "total_usd": 1705030.74,
+      "total_zec": 34219.871883,
+      "usd_paid": 1653030.74,
+      "grants": 13,
+      "payments": 48,
+      "last_paid": "2026-11-05"
+    },
+    {
+      "recipient": "Taylor Hornby",
+      "total_usd": 1658500,
+      "total_zec": 5868.5248,
+      "usd_paid": 1658500,
+      "grants": 3,
+      "payments": 14,
+      "last_paid": "2026-10-16"
+    },
+    {
+      "recipient": "Equilibrium",
+      "total_usd": 1452200,
+      "total_zec": 30666.1802069,
+      "usd_paid": 1452200,
+      "grants": 6,
+      "payments": 24,
+      "last_paid": "2026-04-27"
+    },
+    {
+      "recipient": "Tor",
+      "total_usd": 1389856,
+      "total_zec": 18952.08,
+      "usd_paid": 1389856,
+      "grants": 3,
+      "payments": 9,
+      "last_paid": "2026-05-19"
+    },
+    {
+      "recipient": "Zingo Labs",
+      "total_usd": 1292157.44,
+      "total_zec": 27099.731,
+      "usd_paid": 1234957.44,
+      "grants": 9,
+      "payments": 24,
+      "last_paid": "2026-09-10"
+    },
+    {
+      "recipient": "Nighthawk",
+      "total_usd": 1142986,
+      "total_zec": 22104.2785862,
+      "usd_paid": 1142986,
+      "grants": 5,
+      "payments": 12,
+      "last_paid": "2023-10-16"
+    },
+    {
+      "recipient": "Zcash Media",
+      "total_usd": 1056470,
+      "total_zec": 25427.0095483,
+      "usd_paid": 1056470,
+      "grants": 4,
+      "payments": 17,
+      "last_paid": "2024-05-09"
+    }
+  ],
+  "meeting_activity": {
+    "meetings_analyzed": 10,
+    "total_views": 3059,
+    "avg_views": 305.9,
+    "total_replies": 14,
+    "total_decisions_extracted": 262,
+    "most_recent": "Zcash Community Grants Meeting Minutes 10/23/2026",
+    "most_recent_date": "10/23/2026"
+  },
+  "github_issue_stats": {
+    "total_issues": 96,
+    "status_breakdown": {
+      "unknown": 14,
+      "under_review": 40,
+      "process_failure": 11,
+      "declined": 26,
+      "started": 3,
+      "approved": 1,
+      "complete": 1
+    }
+  }
+}

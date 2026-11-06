@@ -1,0 +1,1967 @@
+{
+  "scraped_at": "2026-11-06T12:24:46.470074+00:00",
+  "total_issues": 96,
+  "grants": [
+    {
+      "issue_number": 542,
+      "title": "Grant Application -Tranfr \u2014 Programmable Asset Continuity for Zcash",
+      "author": "sidelaw",
+      "created_at": "2026-11-06T12:23:09Z",
+      "updated_at": "2026-11-06T12:23:19Z",
+      "closed_at": null,
+      "state": "open",
+      "status": "unknown",
+      "labels": [],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": "Infrastructure",
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/542",
+      "comments_count": 1
+    },
+    {
+      "issue_number": 541,
+      "title": "Grant Application - ZCASH MALAWI UNIVERSITY GAME NIGHTS",
+      "author": "Fred265",
+      "created_at": "2026-11-06T11:20:37Z",
+      "updated_at": "2026-11-06T11:47:04Z",
+      "closed_at": null,
+      "state": "open",
+      "status": "unknown",
+      "labels": [],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": "Education",
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/541",
+      "comments_count": 3
+    },
+    {
+      "issue_number": 540,
+      "title": "Grant Application - IronLimb: Private DeFi for ZEC on Zeko",
+      "author": "zekoxyz",
+      "created_at": "2026-11-05T23:40:34Z",
+      "updated_at": "2026-11-06T05:24:56Z",
+      "closed_at": null,
+      "state": "open",
+      "status": "unknown",
+      "labels": [],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": "Research & Development",
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/540",
+      "comments_count": 2
+    },
+    {
+      "issue_number": 539,
+      "title": "Grant Application - Celari: independent security audit and hardening of an open-source browser wallet",
+      "author": "Kubudak90",
+      "created_at": "2026-11-05T18:10:08Z",
+      "updated_at": "2026-11-05T18:10:17Z",
+      "closed_at": null,
+      "state": "open",
+      "status": "unknown",
+      "labels": [],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": "Wallets",
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/539",
+      "comments_count": 1
+    },
+    {
+      "issue_number": 538,
+      "title": "Grant Application - Automated FROST co-signer: spending limits an agent cannot get around",
+      "author": "princemuichkine",
+      "created_at": "2026-11-04T18:17:01Z",
+      "updated_at": "2026-11-04T18:24:17Z",
+      "closed_at": null,
+      "state": "open",
+      "status": "under_review",
+      "labels": [
+        "\ud83d\udccb Grant Application",
+        "\ud83d\udc40 Ready For ZCG Review"
+      ],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": "Infrastructure",
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/538",
+      "comments_count": 2
+    },
+    {
+      "issue_number": 537,
+      "title": "Grant Application - Axelar Integration, Common Prefix Research",
+      "author": "themicp",
+      "created_at": "2026-11-03T16:32:33Z",
+      "updated_at": "2026-11-03T23:16:05Z",
+      "closed_at": null,
+      "state": "open",
+      "status": "under_review",
+      "labels": [
+        "\ud83d\udccb Grant Application",
+        "\ud83d\udc40 Ready For ZCG Review"
+      ],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": "Infrastructure",
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/537",
+      "comments_count": 5
+    },
+    {
+      "issue_number": 536,
+      "title": "Zcash East Africa Developer Workshop Session",
+      "author": "ZcashEA",
+      "created_at": "2026-11-03T16:22:40Z",
+      "updated_at": "2026-11-03T23:32:08Z",
+      "closed_at": null,
+      "state": "open",
+      "status": "under_review",
+      "labels": [
+        "\ud83d\udccb Grant Application",
+        "\ud83d\udc40 Ready For ZCG Review"
+      ],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": "Education",
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/536",
+      "comments_count": 2
+    },
+    {
+      "issue_number": 535,
+      "title": "create-zcash-app",
+      "author": "Anekenonso",
+      "created_at": "2026-11-03T12:59:53Z",
+      "updated_at": "2026-11-03T15:55:30Z",
+      "closed_at": null,
+      "state": "open",
+      "status": "under_review",
+      "labels": [
+        "\ud83d\udccb Grant Application",
+        "\ud83d\udc40 Ready For ZCG Review"
+      ],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": "Infrastructure",
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/535",
+      "comments_count": 6
+    },
+    {
+      "issue_number": 534,
+      "title": "Zethora - Orchard Integration Audit & ZEC Bridging",
+      "author": "ceoghoxst",
+      "created_at": "2026-11-02T23:33:00Z",
+      "updated_at": "2026-11-05T20:54:34Z",
+      "closed_at": null,
+      "state": "open",
+      "status": "under_review",
+      "labels": [
+        "\ud83d\udccb Grant Application",
+        "\ud83d\udc40 Ready For ZCG Review"
+      ],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": "Security",
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/534",
+      "comments_count": 16
+    },
+    {
+      "issue_number": 533,
+      "title": "Grant Application - Forg3t Shield for Zcash",
+      "author": "Alvinagile",
+      "created_at": "2026-11-02T17:17:39Z",
+      "updated_at": "2026-11-03T14:54:11Z",
+      "closed_at": null,
+      "state": "open",
+      "status": "under_review",
+      "labels": [
+        "\ud83d\udccb Grant Application",
+        "\ud83d\udc40 Ready For ZCG Review"
+      ],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": "Security",
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/533",
+      "comments_count": 7
+    },
+    {
+      "issue_number": 532,
+      "title": "Grant Application - Kestrel: Native Mobile WalletConnect for Zcash",
+      "author": "raycre8-g",
+      "created_at": "2026-11-02T12:04:35Z",
+      "updated_at": "2026-11-02T17:36:38Z",
+      "closed_at": null,
+      "state": "open",
+      "status": "under_review",
+      "labels": [
+        "\ud83d\udccb Grant Application",
+        "\ud83d\udc40 Ready For ZCG Review"
+      ],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": "Infrastructure",
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/532",
+      "comments_count": 4
+    },
+    {
+      "issue_number": 531,
+      "title": "Zcash Privacy Developers Residency - December 2026",
+      "author": "ogasky",
+      "created_at": "2026-11-01T23:56:52Z",
+      "updated_at": "2026-11-02T15:25:07Z",
+      "closed_at": null,
+      "state": "open",
+      "status": "under_review",
+      "labels": [
+        "\ud83d\udccb Grant Application",
+        "\ud83d\udc40 Ready For ZCG Review"
+      ],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": "Community",
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/531",
+      "comments_count": 2
+    },
+    {
+      "issue_number": 530,
+      "title": "Grant Application - ZecOne",
+      "author": "folarihn",
+      "created_at": "2026-11-01T12:42:47Z",
+      "updated_at": "2026-11-03T14:51:39Z",
+      "closed_at": null,
+      "state": "open",
+      "status": "unknown",
+      "labels": [],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": "Non",
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/530",
+      "comments_count": 2
+    },
+    {
+      "issue_number": 529,
+      "title": "Grant Application - Shielded 2-of-3 FROST escrow for P2P commerce",
+      "author": "predge-ai",
+      "created_at": "2026-10-31T15:04:46Z",
+      "updated_at": "2026-11-01T15:36:31Z",
+      "closed_at": null,
+      "state": "open",
+      "status": "under_review",
+      "labels": [
+        "\ud83d\udccb Grant Application",
+        "\ud83d\udc40 Ready For ZCG Review"
+      ],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": "Non",
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/529",
+      "comments_count": 4
+    },
+    {
+      "issue_number": 528,
+      "title": "Grant Proposal: Shielded Quest 2026",
+      "author": "Ritikdhanotiya07",
+      "created_at": "2026-10-31T07:20:23Z",
+      "updated_at": "2026-10-31T11:32:06Z",
+      "closed_at": null,
+      "state": "open",
+      "status": "under_review",
+      "labels": [
+        "\ud83d\udccb Grant Application",
+        "\ud83d\udc40 Ready For ZCG Review"
+      ],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": "Community",
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/528",
+      "comments_count": 2
+    },
+    {
+      "issue_number": 527,
+      "title": "Grant Application - Canadian Zcash Community and red\u00b7bridge public testnet launch",
+      "author": "KateSConsulting",
+      "created_at": "2026-10-31T03:25:37Z",
+      "updated_at": "2026-11-04T14:29:59Z",
+      "closed_at": null,
+      "state": "open",
+      "status": "unknown",
+      "labels": [],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": "Event Sponsorships",
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/527",
+      "comments_count": 5
+    },
+    {
+      "issue_number": 526,
+      "title": "Zecmap   The Global Map Of Businesses Accepting Zcash",
+      "author": "BatuhanZcash",
+      "created_at": "2026-10-30T21:57:20Z",
+      "updated_at": "2026-10-30T22:35:46Z",
+      "closed_at": null,
+      "state": "open",
+      "status": "under_review",
+      "labels": [
+        "\ud83d\udccb Grant Application",
+        "\ud83d\udc40 Ready For ZCG Review"
+      ],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": "Community",
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/526",
+      "comments_count": 2
+    },
+    {
+      "issue_number": 525,
+      "title": "Grant Application - Block explorer + Testnet infrastructure 2026-27",
+      "author": "matiasurbieta",
+      "created_at": "2026-10-30T20:24:19Z",
+      "updated_at": "2026-11-01T15:31:12Z",
+      "closed_at": null,
+      "state": "open",
+      "status": "under_review",
+      "labels": [
+        "\ud83d\udccb Grant Application",
+        "\ud83d\udc40 Ready For ZCG Review"
+      ],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": "Infrastructure",
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/525",
+      "comments_count": 3
+    },
+    {
+      "issue_number": 524,
+      "title": "Grant Application - Counzil DAO Manager",
+      "author": "khazaddum",
+      "created_at": "2026-10-30T17:41:34Z",
+      "updated_at": "2026-11-01T16:17:04Z",
+      "closed_at": null,
+      "state": "open",
+      "status": "under_review",
+      "labels": [
+        "\ud83d\udccb Grant Application",
+        "\ud83d\udc40 Ready For ZCG Review"
+      ],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": "Non",
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/524",
+      "comments_count": 3
+    },
+    {
+      "issue_number": 523,
+      "title": "Grant Application - {Pasta Assembly Verification Bridge}",
+      "author": "devpeeter",
+      "created_at": "2026-10-30T01:33:32Z",
+      "updated_at": "2026-10-30T21:48:41Z",
+      "closed_at": null,
+      "state": "open",
+      "status": "under_review",
+      "labels": [
+        "\ud83d\udccb Grant Application",
+        "\ud83d\udc40 Ready For ZCG Review"
+      ],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": "Security",
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/523",
+      "comments_count": 4
+    },
+    {
+      "issue_number": 522,
+      "title": "Grant Application - Zynova: Online Zcash Privacy Education and Adoption Programme",
+      "author": "Ritikdhanotiya07",
+      "created_at": "2026-10-29T20:24:47Z",
+      "updated_at": "2026-10-29T22:25:41Z",
+      "closed_at": null,
+      "state": "open",
+      "status": "under_review",
+      "labels": [
+        "\ud83d\udccb Grant Application",
+        "\ud83d\udc40 Ready For ZCG Review"
+      ],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": "Community",
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/522",
+      "comments_count": 2
+    },
+    {
+      "issue_number": 521,
+      "title": "Grant Application - {Zarcade}",
+      "author": "Valorian0108",
+      "created_at": "2026-10-29T19:00:36Z",
+      "updated_at": "2026-11-03T08:55:37Z",
+      "closed_at": null,
+      "state": "open",
+      "status": "under_review",
+      "labels": [
+        "\ud83d\udccb Grant Application",
+        "\ud83d\udc40 Ready For ZCG Review"
+      ],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": "Education",
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/521",
+      "comments_count": 4
+    },
+    {
+      "issue_number": 520,
+      "title": "Grant Application - Authenticated Shielded Sync Gateway",
+      "author": "Prodiggyy",
+      "created_at": "2026-10-28T01:59:54Z",
+      "updated_at": "2026-10-28T22:29:17Z",
+      "closed_at": null,
+      "state": "open",
+      "status": "under_review",
+      "labels": [
+        "\ud83d\udccb Grant Application",
+        "\ud83d\udc40 Ready For ZCG Review"
+      ],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": "Security",
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/520",
+      "comments_count": 5
+    },
+    {
+      "issue_number": 519,
+      "title": "Grant Application - Unpair",
+      "author": "zakrad",
+      "created_at": "2026-10-27T11:31:42Z",
+      "updated_at": "2026-10-27T19:23:51Z",
+      "closed_at": null,
+      "state": "open",
+      "status": "under_review",
+      "labels": [
+        "\ud83d\udccb Grant Application",
+        "\ud83d\udc40 Ready For ZCG Review"
+      ],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": "Non",
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/519",
+      "comments_count": 4
+    },
+    {
+      "issue_number": 518,
+      "title": "Grant Application - {Zcash Durable Payment Outbox}",
+      "author": "devfola",
+      "created_at": "2026-10-26T23:05:13Z",
+      "updated_at": "2026-10-26T23:08:59Z",
+      "closed_at": null,
+      "state": "open",
+      "status": "under_review",
+      "labels": [
+        "\ud83d\udccb Grant Application",
+        "\ud83d\udc40 Ready For ZCG Review"
+      ],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": "Infrastructure",
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/518",
+      "comments_count": 2
+    },
+    {
+      "issue_number": 517,
+      "title": "Grant Application - Zbeam: A Trustless gRPC Network for Zcash",
+      "author": "chigozzdevv",
+      "created_at": "2026-10-26T11:32:26Z",
+      "updated_at": "2026-10-26T13:32:05Z",
+      "closed_at": null,
+      "state": "open",
+      "status": "under_review",
+      "labels": [
+        "\ud83d\udccb Grant Application",
+        "\ud83d\udc40 Ready For ZCG Review"
+      ],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": "Infrastructure",
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/517",
+      "comments_count": 2
+    },
+    {
+      "issue_number": 516,
+      "title": "Grant Application - CryptoMondays With Minds by Animoca Brands",
+      "author": "alivaibhavv",
+      "created_at": "2026-10-25T13:41:23Z",
+      "updated_at": "2026-10-26T11:40:13Z",
+      "closed_at": "2026-10-26T11:32:19Z",
+      "state": "closed",
+      "status": "process_failure",
+      "labels": [
+        "Closed - Did Not Follow Process"
+      ],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": "Community",
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/516",
+      "comments_count": 6
+    },
+    {
+      "issue_number": 515,
+      "title": "Grant Application - Post-quantum readiness inventory for the Zcash stack",
+      "author": "AlekseyKoks-in",
+      "created_at": "2026-10-23T18:33:14Z",
+      "updated_at": "2026-11-04T20:47:22Z",
+      "closed_at": null,
+      "state": "open",
+      "status": "under_review",
+      "labels": [
+        "\ud83d\udccb Grant Application",
+        "\ud83d\udc40 Ready For ZCG Review"
+      ],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": "Security",
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/515",
+      "comments_count": 14
+    },
+    {
+      "issue_number": 514,
+      "title": "V12 Credits Application - Zafe",
+      "author": "AnmolBansalDEV",
+      "created_at": "2026-10-23T12:24:27Z",
+      "updated_at": "2026-10-26T02:47:22Z",
+      "closed_at": null,
+      "state": "open",
+      "status": "under_review",
+      "labels": [
+        "\ud83d\udc40 Ready For ZCG Review",
+        "\ud83d\udee1\ufe0f V12 Credits Application"
+      ],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": null,
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/514",
+      "comments_count": 0
+    },
+    {
+      "issue_number": 513,
+      "title": "Grant Application - NU7-Compatible ZEC Swaps for Vultisig/SwapKit",
+      "author": "Anirudh-712",
+      "created_at": "2026-10-23T09:50:07Z",
+      "updated_at": "2026-11-06T04:45:06Z",
+      "closed_at": null,
+      "state": "open",
+      "status": "under_review",
+      "labels": [
+        "\ud83d\udccb Grant Application",
+        "\ud83d\udc40 Ready For ZCG Review"
+      ],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": "Integration",
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/513",
+      "comments_count": 6
+    },
+    {
+      "issue_number": 512,
+      "title": "ZecLink \u2014 Making Zcash Payments Simple and Accessible",
+      "author": "kinkin74",
+      "created_at": "2026-10-22T21:36:42Z",
+      "updated_at": "2026-10-22T22:03:47Z",
+      "closed_at": null,
+      "state": "open",
+      "status": "under_review",
+      "labels": [
+        "\ud83d\udccb Grant Application",
+        "\ud83d\udc40 Ready For ZCG Review"
+      ],
+      "milestones_completed": 0,
+      "requested_amount": 40000.0,
+      "category": "Non",
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/512",
+      "comments_count": 3
+    },
+    {
+      "issue_number": 511,
+      "title": "Grant Application - {Zcash NU7 Compatibility for Wallet Core}",
+      "author": "steven3002",
+      "created_at": "2026-10-22T17:08:14Z",
+      "updated_at": "2026-10-25T14:31:00Z",
+      "closed_at": null,
+      "state": "open",
+      "status": "under_review",
+      "labels": [
+        "\ud83d\udccb Grant Application",
+        "\ud83d\udc40 Ready For ZCG Review"
+      ],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": "Integration",
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/511",
+      "comments_count": 2
+    },
+    {
+      "issue_number": 510,
+      "title": "Grant Application - Zcash Localization Hub RU/UA",
+      "author": "NoYouDeal",
+      "created_at": "2026-10-22T16:02:24Z",
+      "updated_at": "2026-10-23T17:54:58Z",
+      "closed_at": null,
+      "state": "open",
+      "status": "under_review",
+      "labels": [
+        "\ud83d\udccb Grant Application",
+        "\ud83d\udc40 Ready For ZCG Review"
+      ],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": "Education",
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/510",
+      "comments_count": 13
+    },
+    {
+      "issue_number": 509,
+      "title": "Grant Application \u2013 Rypto: Zcash Privacy Content & Amplification Campaign",
+      "author": "ryptocrypto",
+      "created_at": "2026-10-21T11:49:02Z",
+      "updated_at": "2026-10-22T13:33:35Z",
+      "closed_at": null,
+      "state": "open",
+      "status": "under_review",
+      "labels": [
+        "\ud83d\udccb Grant Application",
+        "\ud83d\udc40 Ready For ZCG Review"
+      ],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": "Media",
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/509",
+      "comments_count": 5
+    },
+    {
+      "issue_number": 508,
+      "title": "CryptoMondays Community Events",
+      "author": "alivaibhavv",
+      "created_at": "2026-10-21T10:49:26Z",
+      "updated_at": "2026-10-25T12:00:48Z",
+      "closed_at": "2026-10-25T12:00:48Z",
+      "state": "closed",
+      "status": "process_failure",
+      "labels": [
+        "Closed - Did Not Follow Process"
+      ],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": "Community",
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/508",
+      "comments_count": 1
+    },
+    {
+      "issue_number": 507,
+      "title": "Grant Application - Lean proof of the GLV recoding and ladder in pasta_curves (part 3 of pasta_curves#174)",
+      "author": "hm-yousuf",
+      "created_at": "2026-10-21T06:56:13Z",
+      "updated_at": "2026-10-25T12:45:45Z",
+      "closed_at": null,
+      "state": "open",
+      "status": "under_review",
+      "labels": [
+        "\ud83d\udccb Grant Application",
+        "\ud83d\udc40 Ready For ZCG Review"
+      ],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": "Infrastructure",
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/507",
+      "comments_count": 6
+    },
+    {
+      "issue_number": 506,
+      "title": "Grant Application - {Zcash Durable Payment Outbox}",
+      "author": "devfola",
+      "created_at": "2026-10-21T01:19:03Z",
+      "updated_at": "2026-10-26T10:23:24Z",
+      "closed_at": "2026-10-26T10:23:24Z",
+      "state": "closed",
+      "status": "process_failure",
+      "labels": [
+        "Closed - Did Not Follow Process"
+      ],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": "Infrastructure",
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/506",
+      "comments_count": 8
+    },
+    {
+      "issue_number": 505,
+      "title": "Grant Application - Zblind (formerly Zash): free, open-source Zcash education bot and channel in Spanish",
+      "author": "5wt6fw45nt-design",
+      "created_at": "2026-10-20T12:41:11Z",
+      "updated_at": "2026-10-29T17:43:05Z",
+      "closed_at": null,
+      "state": "open",
+      "status": "under_review",
+      "labels": [
+        "\ud83d\udccb Grant Application",
+        "\ud83d\udc40 Ready For ZCG Review"
+      ],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": "Education",
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/505",
+      "comments_count": 7
+    },
+    {
+      "issue_number": 504,
+      "title": "Grant Application - {Pasta GLV Scalar Split Assurance: Source-Linked Proofs for Pallas and Vesta}",
+      "author": "Crackdevs",
+      "created_at": "2026-10-19T19:23:23Z",
+      "updated_at": "2026-10-19T20:03:08Z",
+      "closed_at": null,
+      "state": "open",
+      "status": "under_review",
+      "labels": [
+        "\ud83d\udccb Grant Application",
+        "\ud83d\udc40 Ready For ZCG Review"
+      ],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": "Infrastructure",
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/504",
+      "comments_count": 2
+    },
+    {
+      "issue_number": 503,
+      "title": "Grant Application - Zcash @BlockchainLife 2026",
+      "author": "CoinRefCo",
+      "created_at": "2026-10-19T09:08:16Z",
+      "updated_at": "2026-10-25T12:35:32Z",
+      "closed_at": "2026-10-25T12:35:32Z",
+      "state": "closed",
+      "status": "declined",
+      "labels": [
+        "\ud83d\udccb Grant Application",
+        "\ud83d\udc40 Ready For ZCG Review",
+        "\u274c Grant Declined"
+      ],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": "Event Sponsorships",
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/503",
+      "comments_count": 7
+    },
+    {
+      "issue_number": 502,
+      "title": "Grant Application - zreceipt: payment disclosures for shielded Zcash (ZIP 311)",
+      "author": "Cosmiq2025",
+      "created_at": "2026-10-19T07:36:10Z",
+      "updated_at": "2026-10-26T06:29:41Z",
+      "closed_at": null,
+      "state": "open",
+      "status": "under_review",
+      "labels": [
+        "\ud83d\udccb Grant Application",
+        "\ud83d\udc40 Ready For ZCG Review"
+      ],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": "Zcash Protocol Extension",
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/502",
+      "comments_count": 7
+    },
+    {
+      "issue_number": 501,
+      "title": "Develop a Go interface to state-of-the-art Zcash light-wallet tech",
+      "author": "buck54321",
+      "created_at": "2026-10-19T02:50:02Z",
+      "updated_at": "2026-10-24T22:06:10Z",
+      "closed_at": null,
+      "state": "open",
+      "status": "under_review",
+      "labels": [
+        "\ud83d\udccb Grant Application",
+        "\ud83d\udc40 Ready For ZCG Review"
+      ],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": "Infrastructure",
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/501",
+      "comments_count": 4
+    },
+    {
+      "issue_number": 500,
+      "title": "Grant Application - ZIP-321 Conformance Notebook",
+      "author": "KnowYI12",
+      "created_at": "2026-10-17T09:52:22Z",
+      "updated_at": "2026-11-03T15:00:26Z",
+      "closed_at": null,
+      "state": "open",
+      "status": "under_review",
+      "labels": [
+        "\ud83d\udccb Grant Application",
+        "\ud83d\udc40 Ready For ZCG Review"
+      ],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": "Infrastructure",
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/500",
+      "comments_count": 5
+    },
+    {
+      "issue_number": 499,
+      "title": "Grant Application - KeyAI: reproducible ECDLP evaluation for Zcash",
+      "author": "KeyAIGit",
+      "created_at": "2026-10-17T04:26:52Z",
+      "updated_at": "2026-10-20T13:33:54Z",
+      "closed_at": "2026-10-20T13:33:54Z",
+      "state": "closed",
+      "status": "process_failure",
+      "labels": [
+        "Closed - Did Not Follow Process"
+      ],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": "Research & Development",
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/499",
+      "comments_count": 1
+    },
+    {
+      "issue_number": 498,
+      "title": "Grant Application - Zcash \u4e2d\u6587\u5165\u95e8\u5305 / Zcash Chinese Onboarding Pack",
+      "author": "zwang1111",
+      "created_at": "2026-10-16T11:10:02Z",
+      "updated_at": "2026-11-05T09:32:32Z",
+      "closed_at": null,
+      "state": "open",
+      "status": "under_review",
+      "labels": [
+        "\ud83d\udccb Grant Application",
+        "\ud83d\udc40 Ready For ZCG Review"
+      ],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": "Education",
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/498",
+      "comments_count": 20
+    },
+    {
+      "issue_number": 497,
+      "title": "Grant Application - Zcash RPC Streaming Redaction Audit",
+      "author": "shi1720",
+      "created_at": "2026-10-16T07:00:34Z",
+      "updated_at": "2026-10-25T12:34:37Z",
+      "closed_at": "2026-10-25T12:34:37Z",
+      "state": "closed",
+      "status": "declined",
+      "labels": [
+        "\ud83d\udccb Grant Application",
+        "\ud83d\udc40 Ready For ZCG Review",
+        "\u274c Grant Declined"
+      ],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": "Security",
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/497",
+      "comments_count": 8
+    },
+    {
+      "issue_number": 495,
+      "title": "[Withdrawn] Grant Application - Zcash Wallet Finder: Needs-Based Selection and Verifiable Capability Data",
+      "author": "Foreveranka",
+      "created_at": "2026-10-15T19:48:41Z",
+      "updated_at": "2026-10-16T00:13:42Z",
+      "closed_at": "2026-10-16T00:12:57Z",
+      "state": "closed",
+      "status": "under_review",
+      "labels": [
+        "\ud83d\udccb Grant Application",
+        "\ud83d\udc40 Ready For ZCG Review"
+      ],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": "Non",
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/495",
+      "comments_count": 3
+    },
+    {
+      "issue_number": 494,
+      "title": "Zcash Privacy & Adoption in Two Bolivian Universities by BlockivIA",
+      "author": "SergioBenaR",
+      "created_at": "2026-10-14T19:35:30Z",
+      "updated_at": "2026-10-23T18:43:58Z",
+      "closed_at": null,
+      "state": "open",
+      "status": "started",
+      "labels": [
+        "\ud83d\udccb Grant Application",
+        "\ud83d\udc40 Ready For ZCG Review",
+        "\u2705 Grant Approved",
+        "\u2705 Startup Payment Completed"
+      ],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": "Education",
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/494",
+      "comments_count": 8,
+      "timeline": [
+        {
+          "event": "labeled",
+          "label": "\ud83d\udccb Grant Application",
+          "date": "2026-10-15T16:20:41Z",
+          "actor": "alexgbo"
+        },
+        {
+          "event": "labeled",
+          "label": "\ud83d\udc40 Ready For ZCG Review",
+          "date": "2026-10-15T16:20:41Z",
+          "actor": "alexgbo"
+        },
+        {
+          "event": "labeled",
+          "label": "\u2705 Grant Approved",
+          "date": "2026-10-23T13:40:30Z",
+          "actor": "alexgbo"
+        },
+        {
+          "event": "labeled",
+          "label": "\u2705 Startup Payment Completed",
+          "date": "2026-10-23T18:15:41Z",
+          "actor": "Duhneekuh"
+        }
+      ]
+    },
+    {
+      "issue_number": 493,
+      "title": "Grant Application - Zcash Early Builders Lab (ZEBL) Cape Town",
+      "author": "thabo-zebl",
+      "created_at": "2026-10-14T19:21:07Z",
+      "updated_at": "2026-10-25T12:32:08Z",
+      "closed_at": "2026-10-25T12:32:07Z",
+      "state": "closed",
+      "status": "declined",
+      "labels": [
+        "\ud83d\udccb Grant Application",
+        "\ud83d\udc40 Ready For ZCG Review",
+        "\u274c Grant Declined"
+      ],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": "Education",
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/493",
+      "comments_count": 7
+    },
+    {
+      "issue_number": 492,
+      "title": "Grant Application - Canadian Zcash Community and red\u00b7bridge public testnet launch",
+      "author": "KateSConsulting",
+      "created_at": "2026-10-13T20:57:34Z",
+      "updated_at": "2026-10-19T12:47:54Z",
+      "closed_at": "2026-10-19T12:47:54Z",
+      "state": "closed",
+      "status": "process_failure",
+      "labels": [
+        "Closed - Did Not Follow Process"
+      ],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": "Event Sponsorships",
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/492",
+      "comments_count": 5
+    },
+    {
+      "issue_number": 491,
+      "title": "Grant Application - Zocial World \u2014 Privacy-First Social, Learning and Collaboration Platform for Zcash",
+      "author": "tufanaydinn",
+      "created_at": "2026-10-13T19:17:41Z",
+      "updated_at": "2026-10-25T12:27:41Z",
+      "closed_at": "2026-10-25T12:27:41Z",
+      "state": "closed",
+      "status": "declined",
+      "labels": [
+        "\ud83d\udccb Grant Application",
+        "\ud83d\udc40 Ready For ZCG Review",
+        "\u274c Grant Declined"
+      ],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": "Community",
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/491",
+      "comments_count": 4
+    },
+    {
+      "issue_number": 490,
+      "title": "Grant Application - Interoperable FROST co-signing for shielded ZEC: open specs and a reference implementation",
+      "author": "KHADEVS",
+      "created_at": "2026-10-13T17:01:05Z",
+      "updated_at": "2026-11-02T16:36:39Z",
+      "closed_at": null,
+      "state": "open",
+      "status": "under_review",
+      "labels": [
+        "\ud83d\udccb Grant Application",
+        "\ud83d\udc40 Ready For ZCG Review"
+      ],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": "Infrastructure",
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/490",
+      "comments_count": 8
+    },
+    {
+      "issue_number": 489,
+      "title": "Grant Application - ZEC Order Pay: shielded ZEC checkout, refunds and creator payouts for service marketplaces",
+      "author": "wolkodaww123-ctrl",
+      "created_at": "2026-10-13T13:49:21Z",
+      "updated_at": "2026-10-25T12:26:34Z",
+      "closed_at": "2026-10-25T12:26:34Z",
+      "state": "closed",
+      "status": "declined",
+      "labels": [
+        "\ud83d\udccb Grant Application",
+        "\ud83d\udc40 Ready For ZCG Review",
+        "\u274c Grant Declined"
+      ],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": "Non",
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/489",
+      "comments_count": 5
+    },
+    {
+      "issue_number": 488,
+      "title": "V12 Credits Application - Vizor",
+      "author": "dogemos",
+      "created_at": "2026-10-13T12:46:34Z",
+      "updated_at": "2026-10-23T02:51:35Z",
+      "closed_at": null,
+      "state": "open",
+      "status": "unknown",
+      "labels": [
+        "\ud83d\udee1\ufe0f V12 Credits Application",
+        "\u2705 V12 Credits Approved",
+        "\ud83d\udce8 V12 Setup Pending"
+      ],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": null,
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/488",
+      "comments_count": 1
+    },
+    {
+      "issue_number": 487,
+      "title": "Zecboat: Wake v1, a custom Halo 2 circuit for note lineage",
+      "author": "zecboat",
+      "created_at": "2026-10-13T10:13:05Z",
+      "updated_at": "2026-10-25T12:29:37Z",
+      "closed_at": "2026-10-25T12:29:37Z",
+      "state": "closed",
+      "status": "declined",
+      "labels": [
+        "\ud83d\udccb Grant Application",
+        "\ud83d\udc40 Ready For ZCG Review",
+        "\u274c Grant Declined"
+      ],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": "Wallets",
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/487",
+      "comments_count": 4
+    },
+    {
+      "issue_number": 486,
+      "title": "Grant Application - Konclave: taking the viewing key off the coordinator",
+      "author": "danielgorgonha",
+      "created_at": "2026-10-13T02:40:05Z",
+      "updated_at": "2026-11-05T11:37:05Z",
+      "closed_at": null,
+      "state": "open",
+      "status": "approved",
+      "labels": [
+        "\ud83d\udccb Grant Application",
+        "\ud83d\udc40 Ready For ZCG Review",
+        "\u2705 Grant Approved"
+      ],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": "Wallets",
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/486",
+      "comments_count": 3,
+      "timeline": [
+        {
+          "event": "labeled",
+          "label": "\ud83d\udccb Grant Application",
+          "date": "2026-10-13T12:49:22Z",
+          "actor": "alexgbo"
+        },
+        {
+          "event": "labeled",
+          "label": "\ud83d\udc40 Ready For ZCG Review",
+          "date": "2026-10-13T12:49:22Z",
+          "actor": "alexgbo"
+        },
+        {
+          "event": "labeled",
+          "label": "\u2705 Grant Approved",
+          "date": "2026-10-23T13:39:54Z",
+          "actor": "alexgbo"
+        }
+      ]
+    },
+    {
+      "issue_number": 485,
+      "title": "V12 Credits Application - zshield-mcp",
+      "author": "Steeve-Crypto",
+      "created_at": "2026-10-13T02:33:04Z",
+      "updated_at": "2026-10-26T11:01:33Z",
+      "closed_at": null,
+      "state": "open",
+      "status": "unknown",
+      "labels": [
+        "\ud83d\udee1\ufe0f V12 Credits Application",
+        "\u2705 V12 Credits Approved",
+        "\u2705 V12 Credits Added"
+      ],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": null,
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/485",
+      "comments_count": 4
+    },
+    {
+      "issue_number": 484,
+      "title": "V12 Credits Application - VKX Wallet",
+      "author": "VkxProtocol",
+      "created_at": "2026-10-12T19:19:23Z",
+      "updated_at": "2026-10-23T02:51:37Z",
+      "closed_at": null,
+      "state": "open",
+      "status": "under_review",
+      "labels": [
+        "\ud83d\udc40 Ready For ZCG Review",
+        "\ud83d\udee1\ufe0f V12 Credits Application"
+      ],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": null,
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/484",
+      "comments_count": 0
+    },
+    {
+      "issue_number": 483,
+      "title": "Grant Application - CENTIREINGS Zcash Market Segmentation & Comparative Intelligence",
+      "author": "GabrielAlfonsoPinzon",
+      "created_at": "2026-10-12T15:41:18Z",
+      "updated_at": "2026-10-25T12:33:23Z",
+      "closed_at": "2026-10-25T12:33:23Z",
+      "state": "closed",
+      "status": "declined",
+      "labels": [
+        "\ud83d\udccb Grant Application",
+        "\ud83d\udc40 Ready For ZCG Review",
+        "\u274c Grant Declined"
+      ],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": "Research & Development",
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/483",
+      "comments_count": 5
+    },
+    {
+      "issue_number": 482,
+      "title": "V12 Credits Application - zshield-mcp",
+      "author": "Steeve-Crypto",
+      "created_at": "2026-10-12T14:07:22Z",
+      "updated_at": "2026-10-13T02:33:34Z",
+      "closed_at": "2026-10-13T02:33:34Z",
+      "state": "closed",
+      "status": "unknown",
+      "labels": [],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": null,
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/482",
+      "comments_count": 2
+    },
+    {
+      "issue_number": 481,
+      "title": "Grant Application - ZEC Order Pay: shielded ZEC checkout, refunds and creator payouts for service marketplaces",
+      "author": "wolkodaww123-ctrl",
+      "created_at": "2026-10-10T21:58:39Z",
+      "updated_at": "2026-10-13T12:54:48Z",
+      "closed_at": "2026-10-13T12:54:48Z",
+      "state": "closed",
+      "status": "process_failure",
+      "labels": [
+        "Closed - Did Not Follow Process"
+      ],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": "Non",
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/481",
+      "comments_count": 1
+    },
+    {
+      "issue_number": 480,
+      "title": "Grant Application - Skyhook and ESMASTe: Cross-chain Bridging, Messaging and Execution Layer",
+      "author": "viabhinav",
+      "created_at": "2026-10-09T16:19:23Z",
+      "updated_at": "2026-10-13T17:48:55Z",
+      "closed_at": null,
+      "state": "open",
+      "status": "under_review",
+      "labels": [
+        "\ud83d\udccb Grant Application",
+        "\ud83d\udc40 Ready For ZCG Review"
+      ],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": null,
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/480",
+      "comments_count": 4
+    },
+    {
+      "issue_number": 479,
+      "title": "Grant Application - Zcash Private Receive Bridge",
+      "author": "intelliDean",
+      "created_at": "2026-10-09T01:34:39Z",
+      "updated_at": "2026-10-25T12:24:55Z",
+      "closed_at": "2026-10-25T12:24:55Z",
+      "state": "closed",
+      "status": "declined",
+      "labels": [
+        "\ud83d\udccb Grant Application",
+        "\ud83d\udc40 Ready For ZCG Review",
+        "\u274c Grant Declined"
+      ],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": "Infrastructure",
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/479",
+      "comments_count": 7
+    },
+    {
+      "issue_number": 478,
+      "title": "Grant Application - Travel Support for Devcon 8 Mumbai \u2014 Speaker, Curator, Performer (ZK-Music) ",
+      "author": "4NI4",
+      "created_at": "2026-10-08T19:13:56Z",
+      "updated_at": "2026-10-14T13:14:44Z",
+      "closed_at": "2026-10-14T13:14:44Z",
+      "state": "closed",
+      "status": "declined",
+      "labels": [
+        "\ud83d\udccb Grant Application",
+        "\ud83d\udc40 Ready For ZCG Review",
+        "\u274c Grant Declined"
+      ],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": "Education",
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/478",
+      "comments_count": 4
+    },
+    {
+      "issue_number": 477,
+      "title": "Grant Application - VKX Wallet: Native Shielded Zcash Integration & Open-Source React Native Module",
+      "author": "VkxProtocol",
+      "created_at": "2026-10-08T17:32:55Z",
+      "updated_at": "2026-10-29T20:41:21Z",
+      "closed_at": "2026-10-14T13:13:49Z",
+      "state": "closed",
+      "status": "declined",
+      "labels": [
+        "\ud83d\udccb Grant Application",
+        "\ud83d\udc40 Ready For ZCG Review",
+        "\u274c Grant Declined"
+      ],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": "Wallets",
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/477",
+      "comments_count": 8
+    },
+    {
+      "issue_number": 476,
+      "title": "V12 Credits Application - Konclave",
+      "author": "danielgorgonha",
+      "created_at": "2026-10-08T15:53:48Z",
+      "updated_at": "2026-10-26T02:47:18Z",
+      "closed_at": null,
+      "state": "open",
+      "status": "unknown",
+      "labels": [
+        "\ud83d\udee1\ufe0f V12 Credits Application",
+        "\u2705 V12 Credits Approved",
+        "\u2705 V12 Credits Added"
+      ],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": null,
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/476",
+      "comments_count": 3
+    },
+    {
+      "issue_number": 475,
+      "title": "V12 Credits Application - Konclave",
+      "author": "danielgorgonha",
+      "created_at": "2026-10-08T15:47:21Z",
+      "updated_at": "2026-10-08T15:49:27Z",
+      "closed_at": "2026-10-08T15:49:27Z",
+      "state": "closed",
+      "status": "unknown",
+      "labels": [],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": null,
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/475",
+      "comments_count": 2
+    },
+    {
+      "issue_number": 474,
+      "title": "Zcash Kenya \u2014 Privacy, Community & Economic Adoption Initiative",
+      "author": "chainweb-commits",
+      "created_at": "2026-10-08T07:23:08Z",
+      "updated_at": "2026-10-11T20:36:53Z",
+      "closed_at": "2026-10-11T12:02:16Z",
+      "state": "closed",
+      "status": "under_review",
+      "labels": [
+        "\ud83d\udccb Grant Application",
+        "\ud83d\udc40 Ready For ZCG Review"
+      ],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": "Community",
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/474",
+      "comments_count": 6
+    },
+    {
+      "issue_number": 473,
+      "title": "V12 Credits Application - Zorg",
+      "author": "craftsoldier",
+      "created_at": "2026-10-07T13:43:53Z",
+      "updated_at": "2026-10-30T14:56:12Z",
+      "closed_at": null,
+      "state": "open",
+      "status": "unknown",
+      "labels": [
+        "\ud83d\udee1\ufe0f V12 Credits Application",
+        "\u2705 V12 Credits Approved",
+        "\ud83d\udce8 V12 Setup Pending"
+      ],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": null,
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/473",
+      "comments_count": 2
+    },
+    {
+      "issue_number": 472,
+      "title": "V12 Credits Application - {Nozy Wallet}",
+      "author": "Lowo88",
+      "created_at": "2026-10-07T13:38:13Z",
+      "updated_at": "2026-10-23T02:51:25Z",
+      "closed_at": null,
+      "state": "open",
+      "status": "unknown",
+      "labels": [
+        "\ud83d\udee1\ufe0f V12 Credits Application",
+        "\u2705 V12 Credits Approved",
+        "\ud83d\udce8 V12 Setup Pending"
+      ],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": null,
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/472",
+      "comments_count": 1
+    },
+    {
+      "issue_number": 471,
+      "title": "V12 Credits Application - zkool",
+      "author": "hhanh00",
+      "created_at": "2026-10-07T08:03:19Z",
+      "updated_at": "2026-10-26T02:47:16Z",
+      "closed_at": null,
+      "state": "open",
+      "status": "unknown",
+      "labels": [
+        "\ud83d\udee1\ufe0f V12 Credits Application",
+        "\u2705 V12 Credits Approved",
+        "\u2705 V12 Credits Added"
+      ],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": null,
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/471",
+      "comments_count": 3
+    },
+    {
+      "issue_number": 468,
+      "title": "Grant Application - Hito Zcash: Stable Firmware, Internal Security Review, and Maintenance",
+      "author": "hito-dev",
+      "created_at": "2026-10-05T19:27:49Z",
+      "updated_at": "2026-10-14T13:11:40Z",
+      "closed_at": "2026-10-14T13:11:40Z",
+      "state": "closed",
+      "status": "declined",
+      "labels": [
+        "\ud83d\udccb Grant Application",
+        "\ud83d\udc40 Ready For ZCG Review",
+        "\u274c Grant Declined"
+      ],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": "Wallets",
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/468",
+      "comments_count": 4
+    },
+    {
+      "issue_number": 467,
+      "title": "Grant Application - Zcash Shielded Payments: An English/Korean Research Report",
+      "author": "FPSteve",
+      "created_at": "2026-10-04T12:45:09Z",
+      "updated_at": "2026-10-14T13:12:32Z",
+      "closed_at": "2026-10-14T13:12:31Z",
+      "state": "closed",
+      "status": "declined",
+      "labels": [
+        "\ud83d\udccb Grant Application",
+        "\ud83d\udc40 Ready For ZCG Review",
+        "\u274c Grant Declined"
+      ],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": "Research & Development",
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/467",
+      "comments_count": 7
+    },
+    {
+      "issue_number": 466,
+      "title": "ZAgentPay: shielded Zcash payments for AI agents under human-defined mandates (MCP server)",
+      "author": "yulliwasameur",
+      "created_at": "2026-10-04T08:01:56Z",
+      "updated_at": "2026-10-07T14:18:21Z",
+      "closed_at": "2026-10-07T13:36:07Z",
+      "state": "closed",
+      "status": "process_failure",
+      "labels": [
+        "Closed - Did Not Follow Process"
+      ],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": "Wallets",
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/466",
+      "comments_count": 1
+    },
+    {
+      "issue_number": 465,
+      "title": "Grant Application - Zcash BuildPath India: Four-City Developer Onboarding Pilot",
+      "author": "Arun5768",
+      "created_at": "2026-10-03T18:09:01Z",
+      "updated_at": "2026-10-25T12:31:00Z",
+      "closed_at": "2026-10-25T12:31:00Z",
+      "state": "closed",
+      "status": "declined",
+      "labels": [
+        "\ud83d\udccb Grant Application",
+        "\ud83d\udc40 Ready For ZCG Review",
+        "\u274c Grant Declined"
+      ],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": "Community",
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/465",
+      "comments_count": 7
+    },
+    {
+      "issue_number": 464,
+      "title": "Grant Application - Solana StealthShield",
+      "author": "sidsri14",
+      "created_at": "2026-10-03T06:16:36Z",
+      "updated_at": "2026-10-06T17:22:43Z",
+      "closed_at": "2026-10-06T17:22:43Z",
+      "state": "closed",
+      "status": "under_review",
+      "labels": [
+        "\ud83d\udccb Grant Application",
+        "\ud83d\udc40 Ready For ZCG Review"
+      ],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": "Security",
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/464",
+      "comments_count": 6
+    },
+    {
+      "issue_number": 462,
+      "title": "Grant Application - Tells: a privacy checkup for Zcash wallets",
+      "author": "luoy16002-svg",
+      "created_at": "2026-10-02T11:36:20Z",
+      "updated_at": "2026-10-14T13:09:56Z",
+      "closed_at": "2026-10-14T13:09:56Z",
+      "state": "closed",
+      "status": "declined",
+      "labels": [
+        "\ud83d\udccb Grant Application",
+        "\ud83d\udc40 Ready For ZCG Review",
+        "\u274c Grant Declined"
+      ],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": "Security",
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/462",
+      "comments_count": 4
+    },
+    {
+      "issue_number": 460,
+      "title": "Grant Application - Fixing, Updating & Streamlining of Zcash Documentation (https://zcash.readthedocs.io/en/master/index.html)",
+      "author": "DeBelg",
+      "created_at": "2026-10-01T22:43:40Z",
+      "updated_at": "2026-10-14T13:07:56Z",
+      "closed_at": "2026-10-14T13:07:56Z",
+      "state": "closed",
+      "status": "declined",
+      "labels": [
+        "\ud83d\udccb Grant Application",
+        "\ud83d\udc40 Ready For ZCG Review",
+        "\u274c Grant Declined"
+      ],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": "Infrastructure",
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/460",
+      "comments_count": 3
+    },
+    {
+      "issue_number": 459,
+      "title": "Grant Application - {Zcash Education Laboratory at Polytechnic University}",
+      "author": "lianaaydinyann-afk",
+      "created_at": "2026-10-01T13:33:05Z",
+      "updated_at": "2026-10-04T14:08:56Z",
+      "closed_at": "2026-10-04T14:08:56Z",
+      "state": "closed",
+      "status": "process_failure",
+      "labels": [
+        "Closed - Did Not Follow Process"
+      ],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": "Education",
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/459",
+      "comments_count": 1
+    },
+    {
+      "issue_number": 458,
+      "title": "Grant Application - VaihtoFX: Shielded ZEC On/Off-Ramp via M-Pesa & Airtel Money in Kenya",
+      "author": "Mahdi-Kintaal",
+      "created_at": "2026-10-01T09:57:11Z",
+      "updated_at": "2026-10-14T13:07:05Z",
+      "closed_at": "2026-10-14T13:07:05Z",
+      "state": "closed",
+      "status": "declined",
+      "labels": [
+        "\ud83d\udccb Grant Application",
+        "\ud83d\udc40 Ready For ZCG Review",
+        "\u274c Grant Declined"
+      ],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": "Integration",
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/458",
+      "comments_count": 7
+    },
+    {
+      "issue_number": 457,
+      "title": "Build Buddies x Zcash: Privacy Education and Community Adoption in Latin America and Asia",
+      "author": "VoodooKingX",
+      "created_at": "2026-09-30T20:58:14Z",
+      "updated_at": "2026-10-14T13:08:50Z",
+      "closed_at": "2026-10-14T13:08:50Z",
+      "state": "closed",
+      "status": "declined",
+      "labels": [
+        "\ud83d\udccb Grant Application",
+        "\ud83d\udc40 Ready For ZCG Review",
+        "\u274c Grant Declined"
+      ],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": "Community",
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/457",
+      "comments_count": 5
+    },
+    {
+      "issue_number": 456,
+      "title": "Grant Application - Zcash Privacy Payment Rail & NFC Programmable Cards",
+      "author": "ONEONUORA",
+      "created_at": "2026-09-30T13:44:02Z",
+      "updated_at": "2026-10-14T13:04:13Z",
+      "closed_at": "2026-10-14T13:04:13Z",
+      "state": "closed",
+      "status": "declined",
+      "labels": [
+        "\ud83d\udccb Grant Application",
+        "\ud83d\udc40 Ready For ZCG Review",
+        "\u274c Grant Declined"
+      ],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": "Infrastructure",
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/456",
+      "comments_count": 5
+    },
+    {
+      "issue_number": 455,
+      "title": "ZCG GitHub form fill - Nozy Sync Engine public ($45k)",
+      "author": "Lowo88",
+      "created_at": "2026-09-29T22:42:17Z",
+      "updated_at": "2026-10-14T13:03:19Z",
+      "closed_at": "2026-10-14T13:03:19Z",
+      "state": "closed",
+      "status": "declined",
+      "labels": [
+        "\ud83d\udccb Grant Application",
+        "\ud83d\udc40 Ready For ZCG Review",
+        "\u274c Grant Declined"
+      ],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": "Infrastructure",
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/455",
+      "comments_count": 4
+    },
+    {
+      "issue_number": 454,
+      "title": "Grant Application - 0xramp: ZEC payments and wallet integrations (revision of #408)",
+      "author": "vinibarbosabr",
+      "created_at": "2026-09-29T18:50:04Z",
+      "updated_at": "2026-10-14T01:54:23Z",
+      "closed_at": null,
+      "state": "open",
+      "status": "started",
+      "labels": [
+        "\ud83d\udccb Grant Application",
+        "\ud83d\udc40 Ready For ZCG Review",
+        "\u2705 Grant Approved",
+        "\u2705 Startup Payment Completed"
+      ],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": "Integration",
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/454",
+      "comments_count": 6,
+      "timeline": [
+        {
+          "event": "labeled",
+          "label": "\ud83d\udccb Grant Application",
+          "date": "2026-09-29T19:29:31Z",
+          "actor": "alexgbo"
+        },
+        {
+          "event": "labeled",
+          "label": "\ud83d\udc40 Ready For ZCG Review",
+          "date": "2026-09-29T19:29:31Z",
+          "actor": "alexgbo"
+        },
+        {
+          "event": "labeled",
+          "label": "\u2705 Grant Approved",
+          "date": "2026-10-12T15:12:53Z",
+          "actor": "alexgbo"
+        },
+        {
+          "event": "labeled",
+          "label": "\u2705 Startup Payment Completed",
+          "date": "2026-10-14T01:54:23Z",
+          "actor": "Duhneekuh"
+        }
+      ]
+    },
+    {
+      "issue_number": 453,
+      "title": "Grant Application - zswap by stalllion labs",
+      "author": "peejay-git",
+      "created_at": "2026-09-29T05:53:00Z",
+      "updated_at": "2026-10-14T13:02:11Z",
+      "closed_at": "2026-10-14T13:02:11Z",
+      "state": "closed",
+      "status": "declined",
+      "labels": [
+        "\ud83d\udccb Grant Application",
+        "\ud83d\udc40 Ready For ZCG Review",
+        "\u274c Grant Declined"
+      ],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": "Security",
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/453",
+      "comments_count": 5
+    },
+    {
+      "issue_number": 452,
+      "title": "Grant Application - zealz.fun: Bringing Real, Redeemable Zcash to the Masses",
+      "author": "zealtoken",
+      "created_at": "2026-09-29T03:26:06Z",
+      "updated_at": "2026-10-04T14:00:01Z",
+      "closed_at": "2026-10-04T14:00:01Z",
+      "state": "closed",
+      "status": "process_failure",
+      "labels": [
+        "Closed - Did Not Follow Process"
+      ],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": "Integration",
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/452",
+      "comments_count": 3
+    },
+    {
+      "issue_number": 451,
+      "title": "Grant Application - OW Terminal \u2014 decentralized open-weight inference, uncensored choice, shielded ZEC metering",
+      "author": "Tarzelf",
+      "created_at": "2026-09-28T16:16:18Z",
+      "updated_at": "2026-10-06T08:49:52Z",
+      "closed_at": "2026-10-04T13:59:39Z",
+      "state": "closed",
+      "status": "process_failure",
+      "labels": [
+        "Closed - Did Not Follow Process"
+      ],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": "Non",
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/451",
+      "comments_count": 4
+    },
+    {
+      "issue_number": 450,
+      "title": "Grant Application - Zcash Global Community & Marketing Operations",
+      "author": "Dk51islive",
+      "created_at": "2026-09-28T10:28:57Z",
+      "updated_at": "2026-10-14T13:01:18Z",
+      "closed_at": "2026-10-14T13:01:18Z",
+      "state": "closed",
+      "status": "declined",
+      "labels": [
+        "\ud83d\udccb Grant Application",
+        "\ud83d\udc40 Ready For ZCG Review",
+        "\u274c Grant Declined"
+      ],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": "Community",
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/450",
+      "comments_count": 3
+    },
+    {
+      "issue_number": 449,
+      "title": "Zcash T\u00fcrkiye University Tour 2026 \u2014 ZCG Grant Proposal",
+      "author": "BatuhanZcash",
+      "created_at": "2026-09-27T11:33:50Z",
+      "updated_at": "2026-10-09T17:01:19Z",
+      "closed_at": null,
+      "state": "open",
+      "status": "started",
+      "labels": [
+        "\ud83d\udccb Grant Application",
+        "\ud83d\udc40 Ready For ZCG Review",
+        "\u2705 Grant Approved",
+        "\u2705 Startup Payment Completed"
+      ],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": "Event Sponsorships",
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/449",
+      "comments_count": 4,
+      "timeline": [
+        {
+          "event": "labeled",
+          "label": "\ud83d\udccb Grant Application",
+          "date": "2026-09-27T13:03:39Z",
+          "actor": "alexgbo"
+        },
+        {
+          "event": "labeled",
+          "label": "\ud83d\udc40 Ready For ZCG Review",
+          "date": "2026-09-27T13:03:39Z",
+          "actor": "alexgbo"
+        },
+        {
+          "event": "labeled",
+          "label": "\u2705 Grant Approved",
+          "date": "2026-10-09T12:13:26Z",
+          "actor": "alexgbo"
+        },
+        {
+          "event": "labeled",
+          "label": "\u2705 Startup Payment Completed",
+          "date": "2026-10-09T17:01:19Z",
+          "actor": "Duhneekuh"
+        }
+      ]
+    },
+    {
+      "issue_number": 448,
+      "title": "Grant Application - Zcash Privacy Ecosystem Mapping & Adoption Data",
+      "author": "jen-sei",
+      "created_at": "2026-09-26T14:48:38Z",
+      "updated_at": "2026-10-14T13:00:18Z",
+      "closed_at": "2026-10-14T13:00:18Z",
+      "state": "closed",
+      "status": "declined",
+      "labels": [
+        "\ud83d\udccb Grant Application",
+        "\ud83d\udc40 Ready For ZCG Review",
+        "\u274c Grant Declined"
+      ],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": "Research & Development",
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/448",
+      "comments_count": 5
+    },
+    {
+      "issue_number": 447,
+      "title": "Grant Application - Mexico Tech Week October 2026 - Zcash M\u00e9xico",
+      "author": "palmarzk",
+      "created_at": "2026-09-26T08:07:18Z",
+      "updated_at": "2026-10-03T00:29:58Z",
+      "closed_at": "2026-10-02T21:09:27Z",
+      "state": "closed",
+      "status": "complete",
+      "labels": [
+        "\ud83d\udccb Grant Application",
+        "\ud83d\udc40 Ready For ZCG Review",
+        "\u2705 Grant Approved",
+        "\u2714\ufe0f Grant Complete",
+        "\u2705 Startup Payment Completed"
+      ],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": "Event Sponsorships",
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/447",
+      "comments_count": 5,
+      "timeline": [
+        {
+          "event": "labeled",
+          "label": "\ud83d\udccb Grant Application",
+          "date": "2026-09-26T14:13:42Z",
+          "actor": "alexgbo"
+        },
+        {
+          "event": "labeled",
+          "label": "\ud83d\udc40 Ready For ZCG Review",
+          "date": "2026-09-26T14:13:42Z",
+          "actor": "alexgbo"
+        },
+        {
+          "event": "labeled",
+          "label": "\u2705 Grant Approved",
+          "date": "2026-10-02T13:54:14Z",
+          "actor": "alexgbo"
+        },
+        {
+          "event": "labeled",
+          "label": "\u2705 Startup Payment Completed",
+          "date": "2026-10-02T21:09:18Z",
+          "actor": "Duhneekuh"
+        },
+        {
+          "event": "labeled",
+          "label": "\u2714\ufe0f Grant Complete",
+          "date": "2026-10-02T21:09:23Z",
+          "actor": "Duhneekuh"
+        }
+      ]
+    },
+    {
+      "issue_number": 445,
+      "title": "Grant Application - Shielded x402: private machine payments for Zcash",
+      "author": "baby-zack-agent",
+      "created_at": "2026-09-25T17:42:52Z",
+      "updated_at": "2026-09-28T19:45:46Z",
+      "closed_at": "2026-09-28T19:45:46Z",
+      "state": "closed",
+      "status": "declined",
+      "labels": [
+        "\ud83d\udccb Grant Application",
+        "\ud83d\udc40 Ready For ZCG Review",
+        "\u274c Grant Declined"
+      ],
+      "milestones_completed": 0,
+      "requested_amount": 42000.0,
+      "category": null,
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/445",
+      "comments_count": 5
+    },
+    {
+      "issue_number": 444,
+      "title": "Grant Application - Independent Recomputation of the Zcash Supply Ledger, including the NU7 NSM Reserve",
+      "author": "robustfengbin",
+      "created_at": "2026-09-25T02:31:40Z",
+      "updated_at": "2026-10-14T12:59:11Z",
+      "closed_at": "2026-10-14T12:59:11Z",
+      "state": "closed",
+      "status": "declined",
+      "labels": [
+        "\ud83d\udccb Grant Application",
+        "\ud83d\udc40 Ready For ZCG Review",
+        "\u274c Grant Declined"
+      ],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": "Research & Development",
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/444",
+      "comments_count": 3
+    },
+    {
+      "issue_number": 443,
+      "title": "Grant Application - zswap by stallion labs",
+      "author": "peejay-git",
+      "created_at": "2026-09-24T21:51:18Z",
+      "updated_at": "2026-09-28T21:09:01Z",
+      "closed_at": "2026-09-28T11:48:42Z",
+      "state": "closed",
+      "status": "process_failure",
+      "labels": [
+        "Closed - Did Not Follow Process"
+      ],
+      "milestones_completed": 0,
+      "requested_amount": 50000.0,
+      "category": "Security",
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/443",
+      "comments_count": 1
+    },
+    {
+      "issue_number": 442,
+      "title": "Grant Application - ZCASH AFRICA PRIVACY ENGINEERING RESIDENCY",
+      "author": "Codeinx",
+      "created_at": "2026-09-23T22:00:11Z",
+      "updated_at": "2026-10-15T08:21:23Z",
+      "closed_at": "2026-10-14T12:57:56Z",
+      "state": "closed",
+      "status": "declined",
+      "labels": [
+        "\ud83d\udccb Grant Application",
+        "\ud83d\udc40 Ready For ZCG Review",
+        "\u274c Grant Declined"
+      ],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": "Education",
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/442",
+      "comments_count": 8
+    },
+    {
+      "issue_number": 441,
+      "title": "Grant Application - Bitcointalk Signature Campaign & ZEC Community Engagement \u2014 3 Months",
+      "author": "Nowfel1",
+      "created_at": "2026-09-22T14:14:19Z",
+      "updated_at": "2026-10-02T13:52:55Z",
+      "closed_at": "2026-10-02T13:52:55Z",
+      "state": "closed",
+      "status": "declined",
+      "labels": [
+        "\ud83d\udccb Grant Application",
+        "\ud83d\udc40 Ready For ZCG Review",
+        "\u274c Grant Declined"
+      ],
+      "milestones_completed": 0,
+      "requested_amount": null,
+      "category": "Community",
+      "url": "https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/441",
+      "comments_count": 5
+    }
+  ]
+}

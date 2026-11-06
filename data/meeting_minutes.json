@@ -1,0 +1,1708 @@
+{
+  "scraped_at": "2026-11-06T12:25:29.974928+00:00",
+  "total_minutes": 10,
+  "minutes": [
+    {
+      "topic_id": 58488,
+      "title": "Zcash Community Grants Meeting Minutes 10/23/2026",
+      "meeting_date": "10/23/2026",
+      "created_at": "2026-10-25T12:21:45.657Z",
+      "url": "https://forum.zcashcommunity.com/t/zcash-community-grants-meeting-minutes-10-23-2026/58488",
+      "views": 170,
+      "reply_count": 1,
+      "like_count": 4,
+      "grants_discussed": [
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "-application-zcash-private-receive-bridge/58103\">Zcash Private Receive Bridge</a></p>\n</li>\n<li>\n<p>Declined</p>\n</li>\n<li>\n<p><a href=\"https://forum.zcashcom"
+        },
+        {
+          "decision": "approved",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "f-the-coordinator/58165\">Konclave: taking the viewing key off the coordinator</a></p>\n</li>\n<li>\n<p>Approved (Zerodartz declined)</p>\n</li>\n<li>\n<p><a href=\"ht"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "165\">Konclave: taking the viewing key off the coordinator</a></p>\n</li>\n<li>\n<p>Approved (Zerodartz declined)</p>\n</li>\n<li>\n<p><a href=\"https://forum.zcashco"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": ": shielded ZEC checkout, refunds and creator payouts for service marketplaces</a></p>\n</li>\n<li>\n<p>Declined</p>\n</li>\n<li>\n<p><a href=\"https://forum.zcashcom"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "l World \u2014 Privacy-First Social, Learning and Collaboration Platform for Zcash</a></p>\n</li>\n<li>\n<p>Declined</p>\n</li>\n<li>\n<p><a href=\"https://forum.zcashcom"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "ote-lineage/58166\">Zecboat: Wake v1, a custom Halo 2 circuit for note lineage</a></p>\n</li>\n<li>\n<p>Declined (Gguy approved)</p>\n</li>\n<li>\n<p><a href=\"https:/"
+        },
+        {
+          "decision": "approved",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "66\">Zecboat: Wake v1, a custom Halo 2 circuit for note lineage</a></p>\n</li>\n<li>\n<p>Declined (Gguy approved)</p>\n</li>\n<li>\n<p><a href=\"https://forum.zcashco"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "-build-day/58210\">Zcash BuildPath India: Four-City Developer Onboarding Pilot</a></p>\n</li>\n<li>\n<p>Declined</p>\n</li>\n<li>\n<p><a href=\"https://forum.zcashcom"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "-builders-lab-zebl-cape-town/58204\">Zcash Early Builders Lab (ZEBL) Cape Town</a></p>\n</li>\n<li>\n<p>Declined</p>\n</li>\n<li>\n<p><a href=\"https://forum.zcashcom"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "e/58156\">CENTIREINGS Zcash Market Segmentation &amp; Comparative Intelligence</a></p>\n</li>\n<li>\n<p>Declined</p>\n</li>\n<li>\n<p><a href=\"https://forum.zcashcom"
+        },
+        {
+          "decision": "approved",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "58207\">Zcash Privacy &amp; Adoption in Two Bolivian Universities by BlockivIA</a></p>\n</li>\n<li>\n<p>Approved</p>\n</li>\n<li>\n<p><a href=\"https://forum.zcashcom"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "cash-rpc-streaming-redaction-audit/58268\">Zcash RPC Streaming Redaction Audit</a></p>\n</li>\n<li>\n<p>Declined</p>\n</li>\n<li>\n<p><a href=\"https://forum.zcashcom"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "nt-application-zcash-at-blockchainlife-2026/58339\">Zcash @BlockchainLife 2026</a></p>\n</li>\n<li>\n<p>Declined</p>\n</li>\n<li>\n<p><a href=\"https://forum.zcashcom"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "n out. It\u2019s a decline.</p>\n</li>\n<li>\n<p>Zerodartz: Decline, I agree with others.</p>\n</li>\n<li>\n<p>Declined</p>\n</li>\n<li>\n<p><a href=\"https://forum.zcashcom"
+        },
+        {
+          "decision": "approved",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "this, but I\u2019m not 100% sure if there\u2019s enough right now, so I\u2019m going to decline.</p>\n</li>\n<li>\n<p>Approved (Zerodartz declined)</p>\n</li>\n<li>\n<p><a href=\"ht"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "0% sure if there\u2019s enough right now, so I\u2019m going to decline.</p>\n</li>\n<li>\n<p>Approved (Zerodartz declined)</p>\n</li>\n<li>\n<p><a href=\"https://forum.zcashco"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": ": Yes, reinventing the wheel feels like something we\u2019ve seen from some AI models.</p>\n</li>\n<li>\n<p>Declined</p>\n</li>\n<li>\n<p><a href=\"https://forum.zcashcom"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "ngful engagement on these platforms. That would have to be proven first. Decline.</p>\n</li>\n<li>\n<p>Declined</p>\n</li>\n<li>\n<p><a href=\"https://forum.zcashcom"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "cant to come back with a clearer proposal. But keep in mind I\u2019m only one of five.</p>\n</li>\n<li>\n<p>Declined (Gguy approved)</p>\n</li>\n<li>\n<p><a href=\"https:/"
+        },
+        {
+          "decision": "approved",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "ck with a clearer proposal. But keep in mind I\u2019m only one of five.</p>\n</li>\n<li>\n<p>Declined (Gguy approved)</p>\n</li>\n<li>\n<p><a href=\"https://forum.zcashco"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "o have a team in India already doing some events and participating at hackathons.</p>\n</li>\n<li>\n<p>Declined</p>\n</li>\n<li>\n<p><a href=\"https://forum.zcashcom"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "ash yet as far as I can see..</p>\n</li>\n<li>\n<p>Paul: Decline here as well.</p>\n</li>\n<li>\n<p>Gguy: Declined.</p>\n</li>\n<li>\n<p>Declined</p>\n</li>\n<li>\n<p><a"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": ".</p>\n</li>\n<li>\n<p>Paul: Decline here as well.</p>\n</li>\n<li>\n<p>Gguy: Declined.</p>\n</li>\n<li>\n<p>Declined</p>\n</li>\n<li>\n<p><a href=\"https://forum.zcashcom"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "mething similar, if there is demand for this sort of info. I\u2019m declining.</p>\n</li>\n<li>\n<p>Artkor: Declined.</p>\n</li>\n<li>\n<p>Declined</p>\n</li>\n<li>\n<p><a"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "demand for this sort of info. I\u2019m declining.</p>\n</li>\n<li>\n<p>Artkor: Declined.</p>\n</li>\n<li>\n<p>Declined</p>\n</li>\n<li>\n<p><a href=\"https://forum.zcashcom"
+        },
+        {
+          "decision": "approved",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "k, and we\u2019ve seen through past events that there may be value in this. I\u2019m willing to give it a go. Approved.</p>\n</li>\n<li>\n<p>Paul: I approve.</p>\n</li>\n<li"
+        },
+        {
+          "decision": "approved",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "vers a fraction of what he offers, given what he\u2019s asking for, that\u2019s reasonable.</p>\n</li>\n<li>\n<p>Approved</p>\n</li>\n<li>\n<p><a href=\"https://forum.zcashcom"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "missing something, I\u2019m happy for the applicant to let me know. Otherwise, reject.</p>\n</li>\n<li>\n<p>Declined</p>\n</li>\n<li>\n<p><a href=\"https://forum.zcashcom"
+        }
+      ],
+      "content_length": 34470
+    },
+    {
+      "topic_id": 58182,
+      "title": "Zcash Community Grants Meeting Minutes 10/12/2026",
+      "meeting_date": "10/12/2026",
+      "created_at": "2026-10-14T12:54:42.189Z",
+      "url": "https://forum.zcashcommunity.com/t/zcash-community-grants-meeting-minutes-10-12-2026/58182",
+      "views": 347,
+      "reply_count": 0,
+      "like_count": 5,
+      "grants_discussed": [
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "sh-to-zec-onboarding-via-bank-cdms/57741\">P2P Cash-to-ZEC Onboarding via Bank CDMs</a></p>\n<ul>\n<li>Declined</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "ment-3-months/57752\">Bitcointalk Signature Campaign &amp; ZEC Community Engagement</a></p>\n<ul>\n<li>Declined async</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://fo"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "residency-pilot-web3bridge/57796\">Zcash Africa Privacy Engineering Residency Pilot</a></p>\n<ul>\n<li>Declined</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "ndependent Recomputation of the Zcash Supply Ledger, including the NU7 NSM Reserve</a></p>\n<ul>\n<li>Declined</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "approved",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "week-october-2026-zcash-mexico/57829\">Mexico Tech Week October 2026 - Zcash M\u00e9xico</a></p>\n<ul>\n<li>Approved async</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://fo"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "m-mapping-adoption-data/57843\">Zcash Privacy Ecosystem Mapping &amp; Adoption Data</a></p>\n<ul>\n<li>Declined</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "approved",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "com/t/zcash-turkiye-university-tour-2026/57848\">Zcash T\u00fcrkiye University Tour 2026</a></p>\n<ul>\n<li>Approved async</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://fo"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "nity-marketing-operations/57860\">Zcash Global Community &amp; Marketing Operations</a></p>\n<ul>\n<li>Declined</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "approved",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "t-integrations-revision-of-408/57892\">0xramp: ZEC payments and wallet integrations</a></p>\n<ul>\n<li>Approved</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "tion-for-zcash-grant-application-request-for-review/57884\">zswap by stalllion labs</a></p>\n<ul>\n<li>Declined</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "-engine-public-compacttxstreamer-in-front-of-zebrad/57896\">Nozy Sync Engine public</a></p>\n<ul>\n<li>Declined</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "-programmable-cards/57930\">Zcash Privacy Payment Rail &amp; NFC Programmable Cards</a></p>\n<ul>\n<li>Declined</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "ant-application-zkp-cryptography-course-4th-edition/57698\">ZKP-cryptography course</a></p>\n<ul>\n<li>Declined</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "a/57939\">VaihtoFX: Shielded ZEC On/Off-Ramp via M-Pesa &amp; Airtel Money in Kenya</a></p>\n<ul>\n<li>Declined</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "thedocs-io-en-master-index-html/57965\">Fixing and Updating of Zcash Documentation </a></p>\n<ul>\n<li>Declined</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "uddies x Zcash: Privacy Education and Community Adoption in Latin America and Asia</a></p>\n<ul>\n<li>Declined</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "rivacy-checkup-for-zcash-wallets/58025\">Tells: a privacy checkup for Zcash wallets</a></p>\n<ul>\n<li>Declined</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "ance/58051\">Hito Zcash: Stable Firmware, Internal Security Review, and Maintenance</a></p>\n<ul>\n<li>Declined</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "-research-report/58046\">Zcash Shielded Payments: An English/Korean Research Report</a></p>\n<ul>\n<li>Declined</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "KX Wallet: Native Shielded Zcash Integration &amp; Open-Source React Native Module</a></p>\n<ul>\n<li>Declined</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "58092\">Travel Support for Devcon 8 Mumbai \u2014 Speaker, Curator, Performer (ZK-Music)</a></p>\n<ul>\n<li>Declined</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "this project seems to be in very early stages. Right now it\u2019s a decline from me.</p>\n</li>\n<li>\n<p>Declined</p>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>\n<p><a href"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": ">\n<p>Hanh: This would make ZEC appear like one of these pump &amp; dump sh*tcoin.</p>\n</li>\n<li>\n<p>Declined async</p>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>\n<p><a"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "rack record and little information about the team</p>\n</li>\n<li>\n<p>Gguy: Agreed.</p>\n</li>\n<li>\n<p>Declined</p>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>\n<p><a href"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "g and I haven\u2019t seen any feedback that would say this is needed. Decline from me.</p>\n</li>\n<li>\n<p>Declined</p>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>\n<p><a href"
+        },
+        {
+          "decision": "approved",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": ", live music, costume contest, networking with food/drinks, and ZEC distribution to attendees \u2014 pre-approved on the M\u00e9xico Tech Week calendar pending venue con"
+        },
+        {
+          "decision": "approved",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "h. I\u2019d like to see feedback and lessons learned after the event. Approve from me.</p>\n</li>\n<li>\n<p>Approved async</p>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>\n<p><a"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "re ZCG should be funding more given what is already available.</p>\n</li>\n<li>\n<p>Artkor: I agree. I declined this proposal because I think this kind of work sh"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "ty work or many small bounties for different tasks of this might be better there.</p>\n</li>\n<li>\n<p>Declined</p>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>\n<p><a href"
+        },
+        {
+          "decision": "approved",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "perfect time to onboard them. I would love to see more of this kind of activity.</p>\n</li>\n<li>\n<p>Approved async</p>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>\n<p><a"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "<p>Gguy: I agree. It\u2019s the form of marketing that is leading me to decline today.</p>\n</li>\n<li>\n<p>Declined</p>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>\n<p><a href"
+        },
+        {
+          "decision": "approved",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "prove and would like to see risks very visible to end users when starting a swap.</p>\n</li>\n<li>\n<p>Approved</p>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>\n<p><a href"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "and applied cryptography delivery. This reduces my trust in this team close to 0.</p>\n</li>\n<li>\n<p>Declined</p>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>\n<p><a href"
+        },
+        {
+          "decision": "deferred",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "ile clients, production monitoring with uptime evidence, and a zero-indexer integration or explicit deferred-gate with honest IP privacy disclosure. <strong>R"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "sh right now.</p>\n</li>\n<li>\n<p>Paul: I decline as well for all the same reasons.</p>\n</li>\n<li>\n<p>Declined</p>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>\n<p><a href"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "ves a clear likelihood of success, and I don\u2019t have that sense with this project.</p>\n</li>\n<li>\n<p>Declined</p>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>\n<p><a href"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "e proof and more relevant proving systems like Tachyon would be very interesting.</p>\n</li>\n<li>\n<p>Declined</p>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>\n<p>End of"
+        }
+      ],
+      "content_length": 27969
+    },
+    {
+      "topic_id": 57928,
+      "title": "Zcash Community Grants (ZCG) Meeting Minutes 9/28/2026",
+      "meeting_date": "9/28/2026",
+      "created_at": "2026-09-30T13:11:16.066Z",
+      "url": "https://forum.zcashcommunity.com/t/zcash-community-grants-zcg-meeting-minutes-9-28-2026/57928",
+      "views": 237,
+      "reply_count": 0,
+      "like_count": 7,
+      "grants_discussed": [
+        {
+          "decision": "approved",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "lockchain-festival-2026/57437\">Zcash East Africa @ Africa Blockchain Festival 2026</a></p>\n<ul>\n<li>Approved (Yes: Artkor, Hanh, Gguy, Paul; No: Zerodartz)</li"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "-network-upgrade-zip-tracker/57479\">ZecScope (Zcash network upgrade / ZIP tracker)</a></p>\n<ul>\n<li>Declined</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "\">Kestrel + ZecAuth: Open Zcash Wallet Connectivity with African Fiat On/Off-Ramps</a></p>\n<ul>\n<li>Declined</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "tion-history/57545\">Zcash Wallet State Integrity: Self-Healing Transaction History</a></p>\n<ul>\n<li>Declined</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "ine for open-source hardware wallet architectures, reusable for standard computers</a></p>\n<ul>\n<li>Declined</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "approved",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "cash-shielded-accounting-repair/57585\">GraphSense Zcash Shielded Accounting Repair</a></p>\n<ul>\n<li>Approved (Yes: Hanh, Gguy, Paul, Zerodartz; No: Artkor)</li"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "grant-application-rill-shielded-zip-321-accept/57595\">Rill shielded ZIP-321 Accept</a></p>\n<ul>\n<li>Declined</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "ency-infrastructure/57597\">1CAD Protocol - ZK-TLS Proof-of-Solvency Infrastructure</a></p>\n<ul>\n<li>Declined</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "ncy-recovery-phrase-support/57628\">Argos: zcashd Emergency Recovery Phrase Support</a></p>\n<ul>\n<li>Declined</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "approved",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "ghana-october-2026-december-2026/57632\">Zcash Ghana (October 2026 - December 2026)</a></p>\n<ul>\n<li>Approved</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "ission/57656\">Zcash SeedSigner: DIY open source air gapped signer for shielded ZEC</a></p>\n<ul>\n<li>Declined</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "approved",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "cashcommunity.com/t/zcash-network-school/55269/22\">Zcash Network School Kazakhstan</a></p>\n<ul>\n<li>Approved</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "com/t/grant-application-zips-for-nerds-one-explainer-per-zip/57705\">ZIPs For Nerds</a></p>\n<ul>\n<li>Declined</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "rations, Poseidon R1CS Constraints, and Folding-Based Recursive Proof Architecture</a></p>\n<ul>\n<li>Declined</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "-class/57724\">Zebra: auditing and closing the peer-supplied-count allocation class</a></p>\n<ul>\n<li>Declined</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "approved",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "ble version of Ironwood formal verification, first steps - bulletproofs in the AGM</a></p>\n<ul>\n<li>Approved (Abstained: Paul)</li>\n</ul>\n</li>\n<li>\n<p><a href"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "ion-zcash-selected-payment-receipts-sdk/57729\">Zcash Selected-Payment Receipts SDK</a></p>\n<ul>\n<li>Declined</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "achine-payments-for-zcash/57826\">Shielded x402: private machine payments for Zcash</a></p>\n<ul>\n<li>Declined</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "approved",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "vents could make sense until the end of the year.. I\u2019m going to decline this one.</p>\n</li>\n<li>\n<p>Approved (Yes: Artkor, Hanh, Gguy, Paul; No: Zerodartz)</p>"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "a prototype or an example of what can be done, but I\u2019m very skeptical as of now.</p>\n</li>\n<li>\n<p>Declined</p>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>\n<p><a href"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "th funding right now.</p>\n</li>\n<li>\n<p>Paul: I also decline for similar reasons.</p>\n</li>\n<li>\n<p>Declined</p>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>\n<p><a href"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "ue was not updated since that person posted. I decline.</p>\n</li>\n<li>\n<p>Gguy: I think this one is declined today.</p>\n</li>\n<li>\n<p>Declined</p>\n</li>\n</ul>"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "on posted. I decline.</p>\n</li>\n<li>\n<p>Gguy: I think this one is declined today.</p>\n</li>\n<li>\n<p>Declined</p>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>\n<p><a href"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "fit. I prefer grants when I can imagine the deliverable being used by end users.</p>\n</li>\n<li>\n<p>Declined</p>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>\n<p><a href"
+        },
+        {
+          "decision": "approved",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "n\u2019t have to code themselves. So I take it as a tool for our community. I approve.</p>\n</li>\n<li>\n<p>Approved (Yes: Hanh, Gguy, Paul, Zerodartz; No: Artkor)</p>"
+        },
+        {
+          "decision": "approved",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": ">Gguy: I agree, and I think this is quite a high ask for a grant like this compared with what we\u2019ve approved before.</p>\n</li>\n<li>\n<p>Zerodartz: I\u2019m also decl"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "imilar features available with CypherPay.</p>\n</li>\n<li>\n<p>Paul: I also decline.</p>\n</li>\n<li>\n<p>Declined</p>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>\n<p><a href"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "there\u2019s nothing to be seen. I would love to have that, but this is just an idea.</p>\n</li>\n<li>\n<p>Declined</p>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>\n<p><a href"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": ">\n<p>Artkor: I haven\u2019t seen any user requests for this specific recovery feature.</p>\n</li>\n<li>\n<p>Declined</p>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>\n<p><a href"
+        },
+        {
+          "decision": "approved",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "d like to see them get even more technical when they can, and continue educating.</p>\n</li>\n<li>\n<p>Approved</p>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>\n<p><a href"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "o transaction size ceiling). <strong>Requesting $30,000.</strong></p>\n<ul>\n<li>\n<p>Gguy: I think we declined this one in the past and they\u2019ve come back with a"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "ed phrase.</p>\n</li>\n<li>\n<p>Paul: Decline.</p>\n</li>\n<li>\n<p>Zerodartz: Decline.</p>\n</li>\n<li>\n<p>Declined</p>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>\n<p><a href"
+        },
+        {
+          "decision": "approved",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "users, as they might even start building on Zcash instead of just only using it.</p>\n</li>\n<li>\n<p>Approved</p>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>"
+        }
+      ],
+      "content_length": 34471
+    },
+    {
+      "topic_id": 57615,
+      "title": "Zcash Community Grants Meeting Minutes 9/14/2026",
+      "meeting_date": "9/14/2026",
+      "created_at": "2026-09-15T15:03:39.316Z",
+      "url": "https://forum.zcashcommunity.com/t/zcash-community-grants-meeting-minutes-9-14-2026/57615",
+      "views": 420,
+      "reply_count": 10,
+      "like_count": 8,
+      "grants_discussed": [
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "57187\">Taking Zcash to the Streets: Education &amp; Real-World Feedback in T\u00fcrkiye</a></p>\n<ul>\n<li>Declined</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "wallets/57220\">Recoverify: Pre-Loss Backup Recovery Verification for Zcash Wallets</a></p>\n<ul>\n<li>Declined</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "approved",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "cation-zcash-world-mumbai-devcon-8-week/57253\">Zcash World, Mumbai (Devcon 8 week)</a></p>\n<ul>\n<li>Approved</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "ication-zcash-privacy-literacy-lab-canada/57256\">Zcash Privacy Literacy Lab Canada</a></p>\n<ul>\n<li>Declined</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "ng-markets/57271\">0xramp: Non-custodial ZEC \u21ff local-fiat ramp for emerging markets</a></p>\n<ul>\n<li>Declined (Artkor voted in favor)</li>\n</ul>\n</li>\n<li>\n<p><"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "rastructure-for-zcash-shielded-assets/57280\">ZecBit - NFT Infrastructure for ZSAs </a></p>\n<ul>\n<li>Declined async</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://fo"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "ash-merchants/57378\">ZEC Invoice Preflight: ZIP-321 Validation for Zcash Merchants</a></p>\n<ul>\n<li>Declined async</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://fo"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "ity.com/t/grant-application-security-audit-of-zaino/57265\">Security Audit of Zaino</a></p>\n<ul>\n<li>Declined</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "ed-zec/57381\">Zcash SeedSigner: DIY open source air gapped signer for shielded ZEC</a></p>\n<ul>\n<li>Declined</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "approved",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "losseum-hackathon-zcash-track/57405\">Colosseum | Crypto World\u2019s Fair | Zcash Track</a></p>\n<ul>\n<li>Approved</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "ebzjs-lightwalletd/57469\">Zcash Integration in Coin Wallet (WebZjs + lightwalletd)</a></p>\n<ul>\n<li>Declined</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "b-a-pure-javascript-zcash-library/57470\">zcashlib: A Pure-JavaScript Zcash Library</a></p>\n<ul>\n<li>Declined</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "d-binance-square/57460\">Zcash Awareness, Education &amp; Community Growth Campaign</a></p>\n<ul>\n<li>Declined</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "orum.zcashcommunity.com/t/zcash-flutter-wallet-sdk/57485\">Zcash Flutter Wallet SDK</a></p>\n<ul>\n<li>Declined</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "approved",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "ommunity.com/t/grant-application-24-videos-zkmarketer/57494\">24 Videos @zkMarketer</a></p>\n<ul>\n<li>Approved</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "site. They don\u2019t seem to add a lot of value compared to the other videos we have.</p>\n</li>\n<li>\n<p>Declined</p>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>\n<p><a href"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": ")</p>\n</li>\n<li>\n<p>Zerodartz: Agree with others on the security concern. Reject.</p>\n</li>\n<li>\n<p>Declined</p>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>\n<p><a href"
+        },
+        {
+          "decision": "approved",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "an be used for future events as well. Looking forward to seeing how it turns out.</p>\n</li>\n<li>\n<p>Approved</p>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>\n<p><a href"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "base who will start learning these things, the impact will also be very marginal.</p>\n</li>\n<li>\n<p>Declined</p>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>\n<p><a href"
+        },
+        {
+          "decision": "approved",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "nd Red Bridge. In my opinion the difference here, and the reason I\u2019m not approving this one where I approved the other ones, is that this one is fairly central"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "ntralized solutions. It is a bit scary when a regulator can block a bank account.</p>\n</li>\n<li>\n<p>Declined (Yes: Artkor; No: Gguy, Paul, Hanh, Zerodartz)</p>"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "n the community probably noticed the red flags around this proposal on the forum, and that\u2019s why we declined it too. I\u2019d also remind anyone who wants to put th"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "and they were not refunded. Unfortunately it seems like our worries materialized.</p>\n</li>\n<li>\n<p>Declined async</p>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>\n<p><a"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "with librustzcash, so the validity of the payment URI is pretty much guaranteed.</p>\n</li>\n<li>\n<p>Declined async</p>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>\n<p><a"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "ll keep an eye on the Zaino project and explore any auditing needs in the future.</p>\n</li>\n<li>\n<p>Declined</p>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>\n<p><a href"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "ve a secure element. For a hobbyist project, this request is way too high for me.</p>\n</li>\n<li>\n<p>Declined</p>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>\n<p><a href"
+        },
+        {
+          "decision": "approved",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "hon in the future because it will help attract more talented developers to Zcash.</p>\n</li>\n<li>\n<p>Approved (applicant revised grant post-meeting and ZCG vote"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "users, and the JavaScript library doesn\u2019t seem secure enough for Zcash standards.</p>\n</li>\n<li>\n<p>Declined</p>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>"
+        }
+      ],
+      "content_length": 28130
+    },
+    {
+      "topic_id": 57394,
+      "title": "Zcash Community Grants Meeting Minutes 8/31/2026",
+      "meeting_date": "8/31/2026",
+      "created_at": "2026-09-02T19:21:23.615Z",
+      "url": "https://forum.zcashcommunity.com/t/zcash-community-grants-meeting-minutes-8-31-2026/57394",
+      "views": 370,
+      "reply_count": 1,
+      "like_count": 12,
+      "grants_discussed": [
+        {
+          "decision": "approved",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": ">Constant-Time Hardening and Explicit Timing Semantics for Zcash Rust Cryptography</a></p>\n<ul>\n<li>Approved async</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://fo"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "ess Audit for Zebra: an independent regression witness for consensus-critical code</a></p>\n<ul>\n<li>Declined</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "y-zec-to-mobile-money-integration/56996\">Rvess Pay ZEC to Mobile Money Integration</a></p>\n<ul>\n<li>Declined</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "approved",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "application-zcash-walletconnect-integration/57026\">Zcash WalletConnect Integration</a></p>\n<ul>\n<li>Approved</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "ble Halo2 Verifier Security Testing Infrastructure (ZKCG Reference Implementation)</a></p>\n<ul>\n<li>Declined</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "ensorship-resistance/57124\">SHPH (Post-Quantum Censorship-Resistant Network Layer)</a></p>\n<ul>\n<li>Declined</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "approved",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "on-the-ground/56890/17\">ZECsy Community Building: 12 Months of Zcash on the Ground</a></p>\n<ul>\n<li>Approved (through nine month milestones)</li>\n</ul>\n</li>\n<"
+        },
+        {
+          "decision": "approved",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "e-support-and-native-graphql-client/57128\">BTCPayServer Multi-Store GraphQL Client</a></p>\n<ul>\n<li>Approved</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "approved",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "grant-application-pretty-good-policy-for-zcash/57134\">Pretty Good Policy for Zcash</a></p>\n<ul>\n<li>Approved</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "approved",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "-hack-to-dark-during-devcon-8-mumbai/57135\">Zcash Hack-to-Dark At Devcon 8, Mumbai</a></p>\n<ul>\n<li>Approved</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "approved",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "zcash-arabia-august-to-december-2026/57170\">Zcash Arabia (August to December 2026)</a></p>\n<ul>\n<li>Approved</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "approved",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "ime behavior universally. <strong>Requesting $10,000.</strong></p>\n<ul>\n<li>\n<p>Gguy: This has been approved. The applicant has come back with suggestions for"
+        },
+        {
+          "decision": "approved",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "a milestone one. He\u2019s waiting for a reply.</p>\n</li>\n<li>\n<p>Gguy: I\u2019ll respond.</p>\n</li>\n<li>\n<p>Approved async</p>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>\n<p><a"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "as been tried. The feedback was not impressive and created more noise than value.</p>\n</li>\n<li>\n<p>Declined</p>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>\n<p><a href"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "eady to approve the proposal in its current form.</p>\n</li>\n<li>\n<p>Hanh: Agreed.</p>\n</li>\n<li>\n<p>Declined</p>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>\n<p><a href"
+        },
+        {
+          "decision": "approved",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "sible (TON is integrated). We need a strong team to move the needle in this area.</p>\n</li>\n<li>\n<p>Approved</p>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>\n<p><a href"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "ce, but if I can be proven wrong. I\u2019m more than happy to revisit if we see value.</p>\n</li>\n<li>\n<p>Declined</p>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>\n<p><a href"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "erodartz: I also don\u2019t see the benefits of this compared to TOR or NYM. I reject.</p>\n</li>\n<li>\n<p>Declined</p>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>\n<p><a href"
+        },
+        {
+          "decision": "approved",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "ine months is a good middle ground.</p>\n</li>\n<li>\n<p>Paul: Nine is fine with me.</p>\n</li>\n<li>\n<p>Approved through nine month milestones</p>\n</li>\n</ul>\n<p>P"
+        }
+      ],
+      "content_length": 22088
+    },
+    {
+      "topic_id": 56909,
+      "title": "Zcash Community Grants Meeting Minutes 8/3/2026",
+      "meeting_date": "8/3/2026",
+      "created_at": "2026-08-05T12:50:37.060Z",
+      "url": "https://forum.zcashcommunity.com/t/zcash-community-grants-meeting-minutes-8-3-2026/56909",
+      "views": 242,
+      "reply_count": 0,
+      "like_count": 7,
+      "grants_discussed": [
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "n-check-before-a-zcg-application/56660\">Threshold (FROST) custody for shielded ZEC</a></p>\n<ul>\n<li>Declined</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "ool-adversarial-resilience-suite/56740\">Zebra Mempool Adversarial Resilience Suite</a></p>\n<ul>\n<li>Declined</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "gitimacy Beyond Transparency: Zcash, Privacy, and Trust in Islamic Digital Finance</a></p>\n<ul>\n<li>Declined</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "rant-application-vibequest-learn-build-prove/56806\">VibeQuest: Learn, Build, Prove</a></p>\n<ul>\n<li>Declined</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "uk-ireland-community-initiative/56807\">Zcash UK &amp; Ireland Community Initiative</a></p>\n<ul>\n<li>Declined</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "IP-229 Conformance Suite: Cleanroom Testing for the Ironwood v6 Transaction Format</a></p>\n<ul>\n<li>Declined</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "nd-readiness-testing-for-zcash-wallets-and-infrastructure/56843\">Ironwood Sentinel</a></p>\n<ul>\n<li>Declined</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "rt for ecosystem shareholders that would lead me to believe otherwise. I decline.</p>\n</li>\n<li>\n<p>Declined</p>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>\n<p><a href"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "ind the applicant has not demonstrated enough expertise in the matter. I decline.</p>\n</li>\n<li>\n<p>Declined</p>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>\n<p><a href"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "money, and if your religion supports use of money, there\u2019s not much to research.</p>\n</li>\n<li>\n<p>Declined</p>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>\n<p><a href"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "others, long term these sorts of learning tools will become obsolete very likely.</p>\n</li>\n<li>\n<p>Declined</p>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>\n<p><a href"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "growing a community first and after that you can come back and apply for a grant.</p>\n</li>\n<li>\n<p>Declined</p>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>\n<p><a href"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "inst librustzcash/zebra-chain on real testnet vectors \u2014 applying the validated methodology from the declined ZCG <span class=\"hashtag-raw\">#307</span> proposal"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "ings more work to everyone involved: spec writers, reviewers and devs. I decline.</p>\n</li>\n<li>\n<p>Declined</p>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>\n<p><a href"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "s some room to interpretation. I don\u2019t think that a linter can effectively check.</p>\n</li>\n<li>\n<p>Declined</p>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>\n<p><a href"
+        }
+      ],
+      "content_length": 25036
+    },
+    {
+      "topic_id": 56763,
+      "title": "Zcash Community Grants (ZCG) Meeting Minutes 7/20/2026",
+      "meeting_date": "7/20/2026",
+      "created_at": "2026-07-21T21:00:27.390Z",
+      "url": "https://forum.zcashcommunity.com/t/zcash-community-grants-zcg-meeting-minutes-7-20-2026/56763",
+      "views": 305,
+      "reply_count": 0,
+      "like_count": 8,
+      "grants_discussed": [
+        {
+          "decision": "approved",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "grant-application-zcash-in-the-privacy-stack-339/56456\">Zcash in the privacy stack</a></p>\n<ul>\n<li>Approved</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "approved",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "ommunity.com/t/grant-application-offensive-security-340/56474\">Offensive Security </a></p>\n<ul>\n<li>Approved</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "com/t/grant-application-zcash-indexer-observatory/56506\">Zcash Indexer Observatory</a></p>\n<ul>\n<li>Declined</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "approved",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "ecsy-team-marketing-at-cypherpunk-week-in-amsterdam/56509\">ZECsy Team in Amsterdam</a></p>\n<ul>\n<li>Approved</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "approved",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "shcommunity.com/t/zcash-turkiye-rlay-hub-event/56562\">Zcash Turkiye RLAY HUB Event</a></p>\n<ul>\n<li>Approved</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "nal-media-series-by-blockdesk-news/56563\">Zcash Explained Educational Media Series</a></p>\n<ul>\n<li>Declined</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "/t/zcash-arabia-june-to-september-2026/56580\">Zcash Arabia (June to September 2026</a></p>\n<ul>\n<li>Declined</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "eepKey: Orchard Shielded Zcash Signing on Hardware + Zingo &amp; ZODL Integrations</a></p>\n<ul>\n<li>Declined (Artkor in favor, all other decline)</li>\n</ul>\n</"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "ient-privacy-transport-library/56592\">Zcash Light Client Privacy Transport Library</a></p>\n<ul>\n<li>Declined</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "approved",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "inging-zcash-to-web3lagos-2026/56588\">Zcash Onboarding @ Web3Lagos Conference 2026</a></p>\n<ul>\n<li>Approved</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "tion/56608\">FROST Shielded Multi-Sig SDK: Easy Threshold Custody for Zcash Wallets</a></p>\n<ul>\n<li>Declined</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "ansaction-blob-parser/56637\">Pure Go Zero-Dependency Zcash Transaction Blob Parser</a></p>\n<ul>\n<li>Declined</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "orum.zcashcommunity.com/t/grant-application-chadwick-bailey/56627\">Chadwick Bailey</a></p>\n<ul>\n<li>Declined</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "educating-their-leaders/56321/10\">Educating Communities by Educating Their Leaders</a></p>\n<ul>\n<li>Declined</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "ion-turnstile-migration-integration-kit/56700\">Turnstile Migration Integration Kit</a></p>\n<ul>\n<li>Declined</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "approved",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "roach to explaining Zcash without going too deep into mathematics. I approve too.</p>\n</li>\n<li>\n<p>Approved</p>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>\n<p><a href"
+        },
+        {
+          "decision": "approved",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "y to test social engineering attacks since our guard may be lower. I approve too.</p>\n</li>\n<li>\n<p>Approved</p>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>\n<p><a href"
+        },
+        {
+          "decision": "approved",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "I reminded them today to update GitHub that they can work the booth at the event.</p>\n</li>\n<li>\n<p>Approved conditionally based on GitHub update</p>\n</li>\n</u"
+        },
+        {
+          "decision": "approved",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "t. I am confident that they will continue to do so with this proposal. I approve.</p>\n</li>\n<li>\n<p>Approved</p>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>\n<p><a href"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "\u2019t up to our standards. I\u2019m not approving this.</p>\n</li>\n<li>\n<p>Paul: I concur.</p>\n</li>\n<li>\n<p>Declined</p>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>\n<p><a href"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "e approaches taken are building  lasting impact. I\u2019m not ready to fund this team.</p>\n</li>\n<li>\n<p>Declined</p>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>\n<p><a href"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "w. Once they have something more production ready, it would be easier to approve.</p>\n</li>\n<li>\n<p>Declined (Artkor in favor, all other decline)</p>\n</li>\n</u"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "TOR/Sock5. The other improvements would do little to defeat a motivated attacker.</p>\n</li>\n<li>\n<p>Declined</p>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>\n<p><a href"
+        },
+        {
+          "decision": "approved",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "ded this team or event before. I\u2019m excited to see what impact this team can have.</p>\n</li>\n<li>\n<p>Approved</p>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>\n<p><a href"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "ckup the shares? How do we recover when a participant disappears? Etc. I decline.</p>\n</li>\n<li>\n<p>Declined</p>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>\n<p><a href"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "h easier for each project to implement thanks to AI help  so I don\u2019t think it\u2019s needed as much now. Declined.</p>\n</li>\n<li>\n<p>Hanh: Tx parsing is not very u"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "he very least. By then it would have re implemented a lot more crypto. I decline.</p>\n</li>\n<li>\n<p>Declined</p>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>\n<p><a href"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "ew. I hope he continues doing what he does as he seems very passionate otherwise.</p>\n</li>\n<li>\n<p>Declined</p>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>\n<p><a href"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "might see something similar to this proposal come out in near future.  I decline.</p>\n</li>\n<li>\n<p>Declined</p>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>\n<p><a href"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "sible phase O/I), but I doubt it can be enforced by a machine/library. I decline.</p>\n</li>\n<li>\n<p>Declined</p>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>\n<p><a href"
+        }
+      ],
+      "content_length": 34534
+    },
+    {
+      "topic_id": 56577,
+      "title": "Zcash Community Grants (ZCG) Meeting Minutes 7/6/2026",
+      "meeting_date": "7/6/2026",
+      "created_at": "2026-07-07T13:43:10.570Z",
+      "url": "https://forum.zcashcommunity.com/t/zcash-community-grants-zcg-meeting-minutes-7-6-2026/56577",
+      "views": 452,
+      "reply_count": 1,
+      "like_count": 7,
+      "grants_discussed": [
+        {
+          "decision": "approved",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "/p>\n</li>\n</ul>\n</li>\n</ul>\n<p>All votes were unanimous except for Formal Verification which Artkor approved but the other members rejected.</p>\n<p><strong>Key"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "hain/56220\">Formal Verification of Consensus Arithmetic and Parsing in zebra-chain</a></p>\n<ul>\n<li>Declined (artkor voted in favor)</li>\n</ul>\n</li>\n<li>\n<p><"
+        },
+        {
+          "decision": "approved",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "ash-turkiye-2026-q3-4-2027-q1-2-3-4/56274\">Zcash T\u00fcrkiye 2026 Q3-4 - 2027 Q1-2-3-4</a></p>\n<ul>\n<li>Approved asnyc</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://fo"
+        },
+        {
+          "decision": "approved",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "nce: Continuous Soundness Fuzzing for Zcash Shielded Verification (incl. Ironwood)</a></p>\n<ul>\n<li>Approved asnyc</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://fo"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "shcommunity.com/t/zenith-full-node-wallet-2026/56327\">Zenith Full-node Wallet 2026</a></p>\n<ul>\n<li>Declined</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "approved",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "munity.com/t/zcash-elastic-subnet-bridge-on-avalanche/44220/110\">red\u00b7bridge Launch</a></p>\n<ul>\n<li>Approved async</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://fo"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "private-everyday-zcash-payments-for-kenyan-university-students/56364\">ZKPay Campus</a></p>\n<ul>\n<li>Declined</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "approved",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "-stability-performance-testing/56367\">zaino - Stability, Performance &amp; Testing</a></p>\n<ul>\n<li>Approved</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "application/56374\">Rozo Merchant POS: Fast Zcash Payments for Real-World Merchants</a></p>\n<ul>\n<li>Declined</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "ndroid-sdk-smoke-paths/56379\">Zcash Reference Flow Kit v1: Android SDK Smoke Paths</a></p>\n<ul>\n<li>Declined</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "h-education-community-growth-initiative/56436\">Growing the Turkish Zcash Community</a></p>\n<ul>\n<li>Declined</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "-ai-to-ai-mesh-networks/56463\">ZK-LoRa: Shielded Micropayments &amp; Privacy Layer</a></p>\n<ul>\n<li>Declined</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": ". Having formal verification included in a broader roadmap would be very helpful.</p>\n</li>\n<li>\n<p>Declined</p>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>\n<p><a href"
+        },
+        {
+          "decision": "approved",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "think they\u2019re on track to being independent next year or at the end of this year.</p>\n</li>\n<li>\n<p>Approved asnyc</p>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>\n<p><a"
+        },
+        {
+          "decision": "approved",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "n\u2019t have too much more feedback but I want to see them continue to improve Zebra.</p>\n</li>\n<li>\n<p>Approved asnyc</p>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>\n<p><a"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "atform. It\u2019s mainly a problem related to value delivered and cost that I decline.</p>\n</li>\n<li>\n<p>Declined</p>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>\n<p><a href"
+        },
+        {
+          "decision": "approved",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "ions and useful infrastructure for the broader ecosystem. After some revisions to the structure, we approved it on Friday.</p>\n</li>\n<li>\n<p>Hanh: We approved"
+        },
+        {
+          "decision": "approved",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "system. After some revisions to the structure, we approved it on Friday.</p>\n</li>\n<li>\n<p>Hanh: We approved because this is the last effort before releasing t"
+        },
+        {
+          "decision": "approved",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "bly important for Zcash over the last year, and we need more as fast as possible.</p>\n</li>\n<li>\n<p>Approved async</p>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>\n<p><a"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "ons. But the claims are not substantiated by facts or by design documents either.</p>\n</li>\n<li>\n<p>Declined</p>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>\n<p><a href"
+        },
+        {
+          "decision": "approved",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "ant for that progress to continue. So I would like to vote in favor of this work.</p>\n</li>\n<li>\n<p>Approved</p>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>\n<p><a href"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "wo major hurdles that make me believe that this is not going to work in practice.</p>\n</li>\n<li>\n<p>Declined</p>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>\n<p><a href"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "Edge were using this. Developers should work with the repo owners which is ZODL.</p>\n</li>\n<li>\n<p>Declined</p>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>\n<p><a href"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "gain maybe in the future there\u2019s room for two teams. So it\u2019s a no for me for now.</p>\n</li>\n<li>\n<p>Declined</p>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>\n<p><a href"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "ances it.</p>\n</li>\n<li>\n<p>Paul: I would concur and vote no for similar reasons.</p>\n</li>\n<li>\n<p>Declined</p>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>\n<p><a href"
+        }
+      ],
+      "content_length": 32695
+    },
+    {
+      "topic_id": 56384,
+      "title": "Zcash Community Grants Meeting Minutes 6/22/2026",
+      "meeting_date": "6/22/2026",
+      "created_at": "2026-06-24T19:16:48.231Z",
+      "url": "https://forum.zcashcommunity.com/t/zcash-community-grants-meeting-minutes-6-22-2026/56384",
+      "views": 290,
+      "reply_count": 1,
+      "like_count": 6,
+      "grants_discussed": [
+        {
+          "decision": "approved",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "e-developer-tooling/55156\">Feature Branch Testnet and Compatible Developer Tooling</a></p>\n<ul>\n<li>Approved (Hanh opposed, remainder in favor)</li>\n</ul>\n</li"
+        },
+        {
+          "decision": "approved",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "m.zcashcommunity.com/t/grant-proposal-zcash-name-service/55737\">Zcash Name Service</a></p>\n<ul>\n<li>Approved async</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://fo"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "e-test-suite-for-zcash-zips/55814\">Cross-Implementation ZIP Conformance Test Suite</a></p>\n<ul>\n<li>Declined</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "nitiative-nigeria/55970\">Zcash Privacy &amp; Digital Freedom Education Initiative </a></p>\n<ul>\n<li>Declined Async</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://fo"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "ps://forum.zcashcommunity.com/t/grant-application-zcash-studio/56083\">Zcash Studio</a></p>\n<ul>\n<li>Declined Asnyc</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://fo"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "-feedback-before-at-grant-submission/56067\">Zallet Operability Features (Z3 stack)</a></p>\n<ul>\n<li>Declined</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "om/t/z-vault-local-first-encrypted-recovery-toolkit-for-zcash-users/56108\">Z-Vault</a></p>\n<ul>\n<li>Declined</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "cash/56114\">ZPAD-20 \u2014 Open Asset Indexing &amp; Discovery Infrastructure for Zcash</a></p>\n<ul>\n<li>Declined</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "lear-signing-fixture-pac/56126\">Zcash Hostile-Companion Clear-Signing Fixture Pack</a></p>\n<ul>\n<li>Declined</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "approved",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "ash-ghana-july-2026-september-2026/56214\">Zcash Ghana (July 2026 - September 2026)</a></p>\n<ul>\n<li>Approved</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "n-zcash-arabia-june-to-september-2026/56221\">Zcash Arabia (June to September 2026)</a></p>\n<ul>\n<li>Declined</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "d/56247\">Zinfra \u2014 Sovereign Zcash Infrastructure Platform for Africa and the World</a></p>\n<ul>\n<li>Declined</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "approved",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "cashcommunity.com/t/zaino-release-stabilization/56268\">Zaino Release Stabilization</a></p>\n<ul>\n<li>Approved</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "deferred",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "ture Branch Testnet and Compatible Developer Tooling</a></p>\n<ul>\n<li>\n<p>Dedicated testnet for NU7-deferred features (ZSA, NSM), starting single-node and expa"
+        },
+        {
+          "decision": "approved",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "but also I\u2019d like them to not delay this and get it done with and merge the code.</p>\n</li>\n<li>\n<p>Approved (Hanh opposed, remainder of committee in favor)</p"
+        },
+        {
+          "decision": "approved",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "o and claim, for example the ZCG identity, and if they are the first they will have it. But I still approved this grant. Originally we were waiting for the Q2"
+        },
+        {
+          "decision": "approved",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "delay of Q2 coin holder vote, and obvious community/ecosystem support, I approve.</p>\n</li>\n<li>\n<p>Approved async</p>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>\n<p><a"
+        },
+        {
+          "decision": "approved",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "s that they might be able to contribute within Zcash.</p>\n</li>\n<li>\n<p>Hanh: The reason we haven\u2019t approved this yet is that the ZIPs that are covered are sma"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "ld like to see collaboration with already established teams working in this area.</p>\n</li>\n<li>\n<p>Declined async</p>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>\n<p><a"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "=\"http://next.js\">Next.js</a>. <strong>Requesting $45,000.</strong></p>\n<ul>\n<li>\n<p>Hanh: This was declined because the tooling that it offers is possible to"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "rrently.</p>\n</li>\n<li>\n<p>Gguy: I worry about the adoption and use of this tool.</p>\n</li>\n<li>\n<p>Declined async</p>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>\n<p><a"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "Exactly. They want to work on GitHub issues and ZCG isn\u2019t managing this project.</p>\n</li>\n<li>\n<p>Declined</p>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>\n<p><a href"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "hat wallets would prefer to use their own architectures than adopt this approach.</p>\n</li>\n<li>\n<p>Declined</p>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>\n<p><a href"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "e developer themself doesn\u2019t seem to have too much background, so it\u2019s a decline.</p>\n</li>\n<li>\n<p>Declined</p>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>\n<p><a href"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "pretty hard to automate since you require a hard wallet like a dod test to flow.</p>\n</li>\n<li>\n<p>Declined</p>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>\n<p><a href"
+        },
+        {
+          "decision": "approved",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "fortable approving continued funding.</p>\n</li>\n<li>\n<p>decentralistdan: approve.</p>\n</li>\n<li>\n<p>Approved</p>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>\n<p><a href"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "We have told them beforehand that we were not super interested in the same stuff.</p>\n</li>\n<li>\n<p>Declined</p>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>\n<p><a href"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "h little funds to make a prototype of this type of project would make more sense.</p>\n</li>\n<li>\n<p>Declined</p>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>\n<p><a href"
+        },
+        {
+          "decision": "approved",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "or maintenance funding in the future.</p>\n</li>\n<li>\n<p>Decentralistdan: approve.</p>\n</li>\n<li>\n<p>Approved</p>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>\n<p><a href"
+        }
+      ],
+      "content_length": 29254
+    },
+    {
+      "topic_id": 56139,
+      "title": "Zcash Community Grants Meeting Minutes 6/8/2026",
+      "meeting_date": "6/8/2026",
+      "created_at": "2026-06-10T15:29:30.940Z",
+      "url": "https://forum.zcashcommunity.com/t/zcash-community-grants-meeting-minutes-6-8-2026/56139",
+      "views": 226,
+      "reply_count": 0,
+      "like_count": 5,
+      "grants_discussed": [
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "stem-and-orchard-protocol-in-lean-4/55069\">Formal Verification of Halo 2 in Lean 4</a></p>\n<ul>\n<li>Declined async</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://fo"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "ucational-campaign-by-incrypted/55721\">Incrypted Educational content in CIS region</a></p>\n<ul>\n<li>Declined</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "munity.com/t/grant-application-zcash-privacy-capsule/55801\">Zcash Privacy Capsule </a></p>\n<ul>\n<li>Declined async</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://fo"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "com/t/saihm-zcash-shielded-identity-adapter/55823\">Zcash Shielded-Identity Adapter</a></p>\n<ul>\n<li>Declined</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "n-agnostic-cross-chain-atomic-swaps/55872\">Chain-Agnostic Cross-Chain Atomic Swaps</a></p>\n<ul>\n<li>Declined</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "cation-aweb-zcash-private-agent-receipts/55886\">Aweb Zcash Private Agent Receipts </a></p>\n<ul>\n<li>Declined async</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://fo"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "-suite-feedback-before-at-grant-submission/55931\">PCZT Interoperability Test Suite</a></p>\n<ul>\n<li>Declined</li>\n</ul>\n</li>\n<li>\n<p><a href=\"https://forum.z"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "m/t/grant-application-zpath-a-zcash-whatsapp-bot/55991\">Zpath a Zcash Whatsapp Bot</a></p>\n<ul>\n<li>Declined</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>\n<p><strong>Ope"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "pletion relies on the devs and they do not have the availability of time.</p>\n</li>\n<li>\n<p><strong>Declined async</strong>- The committee decided to reject th"
+        },
+        {
+          "decision": "deferred",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "ture Branch Testnet and Compatible Developer Tooling</a></p>\n<ul>\n<li>\n<p>Dedicated testnet for NU7-deferred features (ZSA, NSM), starting single-node and expa"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "eject based on applicant not pivoting the scope of the grant as requested</p>\n</li>\n<li>\n<p><strong>Declined-</strong> The committee rejected this proposal af"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": ">\n</li>\n<li>\n<p><strong>Declined-</strong> The committee rejected this proposal after the applicant declined a suggestion to narrow the project\u2019s scope to a si"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "ject, no clear use case and lack of wallet support for the implementation</p>\n</li>\n<li>\n<p><strong>Declined async-</strong> The committee rejected this propos"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "is team online.</p>\n</li>\n<li>\n<p>decentralistdan: reject as out of scope</p>\n</li>\n<li>\n<p><strong>Declined-</strong> The committee rejected this proposal be"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "liquidity determines a lot of how much usage a swap service will be used.</p>\n</li>\n<li>\n<p><strong>Declined-</strong> The committee rejected this proposal an"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "fit for Zcash right now.</p>\n</li>\n<li>\n<p>decentralistdan: out of scope</p>\n</li>\n<li>\n<p><strong>Declined Async-</strong> The committee rejected this propos"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "could be a retroactive grant if they demonstrate it\u2019s written and useful.</p>\n</li>\n<li>\n<p><strong>Declined-</strong> The committee rejected this proposal, n"
+        },
+        {
+          "decision": "declined",
+          "yes_votes": null,
+          "no_votes": null,
+          "context": "each out if talking to AI bots on Whatsapp is a new trend I\u2019m unaware of.</p>\n</li>\n<li>\n<p><strong>Declined-</strong> The committee rejected this proposal du"
+        }
+      ],
+      "content_length": 21081
+    }
+  ]
+}
